@@ -7,14 +7,14 @@ website:
   sidebar:
     style: "docked"
     search: true
-    contents:
-      - section: "Departamentos"
-        contents: "fichas/**/*.qmd"
+    contents: auto
+      
 
 format:
   html:
     theme: [cosmo, custom.scss]
-    title-block-banner: "#ED1E6"
+    title-block-banner: "#8ED1E6"
     toc: true
-    df-print: paged      # Hace que las tablas muy largas tengan paginación
+    df-print: paged # Hace que las tablas muy largas tengan paginación
     html-table-processing: none # Evita que Quarto rompa las tablas complejas de Markdown
+

@@ -1,11 +1,33 @@
 ---
-title: "Cordoba"
-format: html
-toc: true
+title: "Ficha Departamental de Caracterización de Riesgo: Cordoba"
+author:
+  - name: Unidad Nacional para la Gestión del Riesgo de Desastres
+    affiliation: "Subdirección para el Conocimiento del Riesgo - UNGRD"
+date: "2025"
+keywords:
+  - Gestión del Riesgo
+  - Amenazas Naturales
+  - Cordoba
+  - UNGRD
+title-block-banner: ".media/cordoba.png"
+title-block-banner-color: "Black"
+css:
+  - ../../custom.scss
+format:
+  html:
+    theme: cosmo
+    toc: true
+    number-sections: false
+    reference-location: section
+crossref:
+  fig-prefix: "Figura"
+  tbl-prefix: "Tabla"
+  chapters: false
 frozen: false
 ---
 
 
+::: {#resumen}
 # 1. INTRODUCCIÓN
 
 1. Objetivo de la ficha departamental
@@ -73,6 +95,7 @@ Agustín Codazzi (IGAC), el Servicio Geológico Colombiano (SGC), el
 Instituto de Investigaciones Marinas y Costeras (INVEMAR), y diversas
 Corporaciones Autónomas Regionales (CAR).
 
+:::
 # 2. CARACTERIZACIÓN TERRITORIAL Y AMBIENTAL
 ------------------------------------------
 
