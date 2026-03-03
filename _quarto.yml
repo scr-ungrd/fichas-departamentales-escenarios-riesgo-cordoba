@@ -13,7 +13,8 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: [cosmo, custom.scss]
+    title-block-banner: "#ED1E6"
     toc: true
     df-print: paged      # Hace que las tablas muy largas tengan paginación
     html-table-processing: none # Evita que Quarto rompa las tablas complejas de Markdown

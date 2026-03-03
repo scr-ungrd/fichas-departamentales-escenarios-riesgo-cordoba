@@ -1,0 +1,12 @@
+---
+title: "Fichas Departamentales de Riesgo"
+title-block-banner: true
+---
+
+Bienvenidos al portal interactivo de caracterización de escenarios de riesgo de la Unidad Nacional para la Gestión del Riesgo de Desastres.
+
+Seleccione un departamento en el menú lateral para visualizar su ficha técnica detallada, o navegue directamente utilizando los enlaces a continuación.
+
+## Departamentos Procesados
+
+* [Ficha Técnica: Córdoba](fichas/cordoba/index.qmd)
