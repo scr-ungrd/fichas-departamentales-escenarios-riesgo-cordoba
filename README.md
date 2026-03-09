@@ -1,36 +1,55 @@
-# 🌍 Fichas Departamentales de Riesgo - UNGRD (Automatización Quarto)
+# 🌍 Portal de Fichas Departamentales de Riesgo - UNGRD
 
-Este proyecto automatiza la conversión, procesamiento y publicación de las **Fichas Departamentales de Caracterización de Escenarios de Riesgo** de la UNGRD. Transforma documentos de Microsoft Word (`.docx`) colaborativos alojados en Google Drive en un sitio web estático, interactivo y estructurado utilizando **Quarto** y **GitHub Pages**.
+Este proyecto centraliza y automatiza la generación de las **Fichas Departamentales de Caracterización de Escenarios de Riesgo** de la UNGRD. Convierte documentación técnica colaborativa (`.docx`) en un ecosistema web interactivo desarrollado con **Quarto**, permitiendo una consulta ágil y profesional de la información de riesgo en Colombia.
 
-## 🚀 Arquitectura y Flujo de Trabajo
+## 🚀 Flujo de Automatización (CI/CD)
 
-El sistema funciona bajo un modelo de Integración y Despliegue Continuo (CI/CD) adaptado para gestión documental:
+El sistema opera mediante un pipeline integrado que asegura que la web siempre refleje la última versión de los documentos técnicos:
 
-1. **Almacenamiento (Google Drive):** Los funcionarios de la UNGRD redactan y actualizan las fichas en formato `.docx` dentro de una carpeta compartida. Esta es la "fuente de la verdad" del texto.
-2. **Motor de Procesamiento (Google Colab):** Un script en Python actúa como puente (ETL). Se conecta al Drive, descarga los documentos y utiliza **Pandoc** para convertirlos a Markdown (`.qmd`). 
-3. **Limpieza y Estructuración (Python):** El script limpia la "basura" del Word (como Tablas de Contenido estáticas), formatea las tablas en formato Grid, extrae las imágenes a carpetas locales relativas e inyecta niveles de encabezados (`#`, `##`) para la navegación web.
-4. **Control de Versiones (GitHub):** El script hace `push` automático de los archivos `.qmd` estructurados a este repositorio.
-5. **Despliegue Automático (GitHub Actions):** Al detectar cambios en la rama `main`, un *workflow* instala Quarto, renderiza el sitio web completo y lo publica en **GitHub Pages**.
-
-## 🛠️ Tecnologías Utilizadas
-
-* **Python 3:** Orquestación y limpieza de texto mediante Expresiones Regulares (Regex) y manipulación de cadenas.
-* **Pandoc:** Motor de conversión profunda de `.docx` a formato Markdown.
-* **GitPython:** Para la automatización de *commits* y *pushes* desde la nube.
-* **Quarto:** Sistema de publicación científica y técnica para generar el HTML final.
-* **GitHub Actions:** CI/CD para la compilación del sitio web.
+1.  **Origen de Datos (Google Drive):** Los especialistas técnicos mantienen las fichas en archivos Word (`.docx`) dentro de carpetas compartidas.
+2.  **Extracción y Transformación (Google Colab):**
+    - Un script especializado en **Google Colab** actúa como motor ETL.
+    - Descarga los documentos de Drive y utiliza **Pandoc** para la conversión base a Markdown.
+    - Realiza una limpieza profunda mediante Python (regex): elimina TOCs estáticos, estandariza tablas en formato Grid, y extrae imágenes a rutas locales.
+    - **Segmentación:** El script divide el documento original en capítulos (`01_capitulo.qmd`, `02_capitulo.qmd`, etc.) para mejorar la navegación y carga del sitio.
+3.  **Control de Versiones (GitHub):** El script de Colab realiza un `push` automático de los archivos procesados a este repositorio.
+4.  **Generación de Sitio (GitHub Actions):** Al detectar cambios en `main`, un workflow dispara la compilación de Quarto, aplicando estilos SASS personalizados y generando el sitio estático en la carpeta `docs/`.
+5.  **Despliegue:** El sitio se publica automáticamente en **GitHub Pages**.
 
 ## 📂 Estructura del Repositorio
 
+La arquitectura del proyecto está optimizada para la publicación multilibro de Quarto:
+
 ```text
 fichas-ungrd/
-├── _quarto.yml               # Configuración global del sitio web interactivo
-├── .github/
-│   └── workflows/
-│       └── publish.yml       # Script de GitHub Actions para el despliegue
-├── fichas/                   # Fichas departamentales generadas
-│   ├── cordoba/
-│   │   ├── index.qmd         # Archivo Markdown renderizado
-│   │   └── media/            # Imágenes extraídas del documento original
-│   └── ... (otros departamentos)
-└── README.md                 # Esta documentación
+├── _quarto.yml               # Configuración global del sitio (menús, temas, búsqueda)
+├── custom.scss               # Identidad visual corporativa (colores UNGRD, tipografías, tablas)
+├── index.qmd                 # Página de inicio del portal
+├── fichas/                   # Directorio raíz de contenido técnico
+│   └── [departamento]/       # Carpeta por cada departamento (ej: cordoba)
+│       ├── _metadata.yml     # Configuración específica del departamento
+│       ├── index.qmd         # Portada de la ficha departamental
+│       ├── 01_capitulo.qmd   # Secciones desglosadas (Ej: Caracterización General)
+│       ├── ...               # Otros capítulos técnicos
+│       └── media/            # Imágenes y mapas extraídos del Word original
+├── .github/workflows/
+│   └── publish.yml           # Pipeline de despliegue automático
+├── docs/                     # Archivos finales renderizados (para GitHub Pages)
+└── README.md                 # Documentación del sistema
+```
+
+## 🎨 Personalización y Estilo
+
+El proyecto utiliza un sistema de estilos avanzado definido en `custom.scss` que incluye:
+
+- **Diseño Premium:** Uso de la fuente _Source Sans Pro_ y banners dinámicos.
+- **Cajas Especializadas:** Estilos para "Resumen", "Abstract" y "Callouts" de importancia.
+- **Optimización de Medios:** Centrado automático de figuras, sombras elegantes y títulos en negrita.
+- **Tablas Profesionales:** Formateo automático de tablas con encabezados destacados y tipografía Arial para máxima legibilidad.
+
+## 🛠️ Tecnologías Core
+
+- **Quarto:** Framework de publicación científica para el renderizado del sitio.
+- **Python (Google Colab):** Para la automatización del procesamiento de texto y gestión de archivos.
+- **SASS/SCSS:** Para la personalización profunda de la interfaz de usuario.
+- **GitHub Actions:** Orquestación de la integración continua.
