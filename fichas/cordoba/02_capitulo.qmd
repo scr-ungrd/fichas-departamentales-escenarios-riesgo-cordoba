@@ -16,7 +16,7 @@ height="3.154166666666667in"}
 
 ![](./media/image3.jpg){width="3.6875in" height="2.888888888888889in"}
 
-######## FIGURA. 1 Mapa Político Administrativo del Departamento de Córdoba. Fuente: IGAC (2002).
+######## Figura 1 Mapa Político Administrativo del Departamento de Córdoba. Fuente: IGAC (2002).
 
 *link:
 [[https://www.todacolombia.com/departamentos-de-colombia/cordoba/municipios-division-politica.html]{.underline}](https://www.todacolombia.com/departamentos-de-colombia/cordoba/municipios-division-politica.html)*
@@ -98,7 +98,7 @@ respecta a la zona rural (48,9%) de la urbana (51,1%).
   ![](./media/image6.png){width="2.010886920384952in" height="1.81709208223972in"}    ![](./media/image7.png){width="1.8067639982502188in" height="1.8755336832895888in"}
   ----------------------------------------------------------------------------------- -------------------------------------------------------------------------------------
 
-[]{#_Toc216554590 .anchor}FIGURA. 2 Distribución demográfica del
+[]{#_Toc216554590 .anchor}Figura 2 Distribución demográfica del
 departamento de Córdoba.
 FUENTE: Tomado de la proyección DANE (2024), pg. 1 y 2. *
 *
@@ -113,7 +113,7 @@ SECTORES PRODUCTIVOS PREDOMINANTES.
 ![](./media/image8.png){width="4.617115048118985in"
 height="2.625254811898513in"}
 
-######## FIGURA. 3 Participación por actividad económica en el departamento de Córdoba. 2022. Fuente: UPRA-DANE, pg. 8.
+######## Figura 3 Participación por actividad económica en el departamento de Córdoba. 2022. Fuente: UPRA-DANE, pg. 8.
 
 *LINK:
 [[https://upra.gov.co/Kit_Territorial/2-%20Informaci%C3%B3n%20por%20Departamentos/C%C3%93RDOBA/2-%20Documento%20Regional%20UPRA%20C%C3%B3rdoba.pdf]{.underline}](https://upra.gov.co/Kit_Territorial/2-%20Informaci%C3%B3n%20por%20Departamentos/C%C3%93RDOBA/2-%20Documento%20Regional%20UPRA%20C%C3%B3rdoba.pdf)*
@@ -289,11 +289,11 @@ portal web se anexa en las referencias del documento.
 
 ![](./media/image9.png){width="4.316744313210848in" height="2.7in"}
 
-######## FIGURA 4 MAPA GEOLOGICO DE COLOMBIA, ESCALA 1:1'500.000. FUENTE: Gómez, J., Montes, N.E. & Marín, E., compiladores. 2023.
+######## Figura 4 MAPA GEOLOGICO DE COLOMBIA, ESCALA 1:1'500.000. FUENTE: Gómez, J., Montes, N.E. & Marín, E., compiladores. 2023.
 
 ![](./media/image10.png){width="3.3833333333333333in" height="3.775in"}
 
-######## FIGURA. 5 Mapa geológico de Córdoba, pagina 74. FUENTE: Plan Departamental de Gestión del Riesgo de Desastres - PDGRD (2022 - 2031), pg. 82.
+######## Figura 5 Mapa geológico de Córdoba, pagina 74. FUENTE: Plan Departamental de Gestión del Riesgo de Desastres - PDGRD (2022 - 2031), pg. 82.
 
 *Link:
 [[https://drive.google.com/drive/folders/1xR_GkW_4eMc55gBeZLUSJ7mjdjfWr0x8]{.underline}](https://drive.google.com/drive/folders/1xR_GkW_4eMc55gBeZLUSJ7mjdjfWr0x8)*
@@ -448,7 +448,7 @@ la Figura 6)
 ![](./media/image11.png){width="3.10625in"
 height="3.0166666666666666in"}
 
-######## FIGURA 6 Cuencas sedimentaria Sinú-San Jacinto (SSJ) en el departamento de Córdoba. FUENTE: ANH (2011)
+######## Figura 6 Cuencas sedimentaria Sinú-San Jacinto (SSJ) en el departamento de Córdoba. FUENTE: ANH (2011)
 
 Link:[[https://www.anh.gov.co/documents/4172/Cuencas_Sedimentarias_de_Colombia_PDF.pdf?utm_source=chatgpt.com]{.underline}](https://www.anh.gov.co/documents/4172/Cuencas_Sedimentarias_de_Colombia_PDF.pdf?utm_source=chatgpt.com)
 
@@ -473,7 +473,7 @@ Cartagena. (Ver Figura 7)
 ![](./media/image12.jpg){width="3.351383420822397in"
 height="4.021660104986877in"}
 
-######## FIGURA. 7 Mapa de las redes de gasoductos en la costa caribe. FUENTE: Promigas (2025)
+######## Figura 7 Mapa de las redes de gasoductos en la costa caribe. FUENTE: Promigas (2025)
 
 *LINK:
 [[https://www.promigas.com/Beo/Paginas/ProcedimientosOperacionales/Mapa-del-gasoducto.aspx]{.underline}](https://www.promigas.com/Beo/Paginas/ProcedimientosOperacionales/Mapa-del-gasoducto.aspx)

@@ -23,7 +23,7 @@ B.  Urabá y Bajo Magdalena. (Color amarillo) 
 ![](./media/image13.png){width="2.072580927384077in"
 height="2.399339457567804in"}
 
-######## FIGURA. 8 Regiones climáticas en el Departamento de Córdoba, pagina 7. Fuente: FAO-IDEAM (2022).
+######## Figura 8 Regiones climáticas en el Departamento de Córdoba, pagina 7. Fuente: FAO-IDEAM (2022).
 
 *LINK:
 [[https://cambioclimatico.fao.org.co/wp-content/uploads/2023/06/13-CORDOBA_24.02.2023.pdf]{.underline}](https://cambioclimatico.fao.org.co/wp-content/uploads/2023/06/13-CORDOBA_24.02.2023.pdf)*
@@ -65,7 +65,7 @@ height="1.4784722222222222in"}
 
 ######## 
 
-######## FIGURA 9. Variabilidad climática del "Niño" y "Niña" en las regiones climáticas, páginas 10 y 11. Fuente: FAO (2022). 
+######## Figura 9. Variabilidad climática del "Niño" y "Niña" en las regiones climáticas, páginas 10 y 11. Fuente: FAO (2022). 
 
 *Link:
 [[https://cambioclimatico.fao.org.co/wp-content/uploads/2023/06/13-CORDOBA_24.02.2023.pdf]{.underline}](https://cambioclimatico.fao.org.co/wp-content/uploads/2023/06/13-CORDOBA_24.02.2023.pdf)*
@@ -103,7 +103,7 @@ Convenciones:
 ![](./media/image17.png){width="4.2952755905511815in"
 height="2.035113735783027in"}
 
-######## FIGURA 10 Indicadores de la tercera comunicación de cambio climático del departamento. FUENTE: Tomado de IDEAM & UNGRD (2025).
+######## Figura 10 Indicadores de la tercera comunicación de cambio climático del departamento. FUENTE: Tomado de IDEAM & UNGRD (2025).
 
 ######### Análisis general de los escenarios climáticos de la tercera comunicación.
 
@@ -173,7 +173,7 @@ modelados a 2040--2070.
 ![](./media/image18.png){width="5.855544619422572in"
 height="3.258251312335958in"}
 
-######## FIGURA 11 Indicadores de cambio climático por municipio del departamento de Córdoba. Fuente: Tomado de IDEAM (2022).
+######## Figura 11 Indicadores de cambio climático por municipio del departamento de Córdoba. Fuente: Tomado de IDEAM (2022).
 
 ######### Conclusiones
 
@@ -283,7 +283,7 @@ posibles (SSP), y son los siguientes:
 ![](./media/image19.png){width="4.635663823272091in"
 height="6.308333333333334in"}
 
-######## FIGURA 12 ESCENARIOS DE CAMBIO CLIMATICO PROYECTADOS POR AR 6. FUENTE: Escoto Castillo et al . (2017)
+######## Figura 12 ESCENARIOS DE CAMBIO CLIMATICO PROYECTADOS POR AR 6. FUENTE: Escoto Castillo et al . (2017)
 
 Link:[[https://drive.google.com/file/d/1QOJ5VKz6-xRtQN1GHx6x03Izj7V965cq/view?usp=drive_link]{.underline}](https://drive.google.com/file/d/1QOJ5VKz6-xRtQN1GHx6x03Izj7V965cq/view?usp=drive_link)
 
@@ -341,7 +341,7 @@ afectación a la biodiversidad ribereña del Sinú.
 ![](./media/image20.png){width="4.455980971128609in"
 height="5.8969411636045495in"}
 
-######## FIGURA 13 TENDENCIAS Y PROYECCIONES PARA LOS ESCENARIOS DE PRECIPITACION AL DEPARTAMENTO DE CORDOBA. FUENTE: IDEAM (2025)
+######## Figura 13 TENDENCIAS Y PROYECCIONES PARA LOS ESCENARIOS DE PRECIPITACION AL DEPARTAMENTO DE CORDOBA. FUENTE: IDEAM (2025)
 
 LINK:
 [[https://drive.google.com/file/d/1F0r1mJKU387P8f3dV2EZAcpNrfoGNYoS/view?usp=drive_link]{.underline}](https://drive.google.com/file/d/1F0r1mJKU387P8f3dV2EZAcpNrfoGNYoS/view?usp=drive_link)
@@ -349,7 +349,7 @@ LINK:
 ![](./media/image21.png){width="4.154166666666667in"
 height="5.341666666666667in"}
 
-######## FIGURA 14 TENDENCIAS Y PROYECCIONES PARA LOS ESCENARIOS DE TEMPERATURAS MAXIMAS ANUALES EN EL DEPARTAMENTO DE CORDOBA. FUENTE: IDEAM (2025)
+######## Figura 14 TENDENCIAS Y PROYECCIONES PARA LOS ESCENARIOS DE TEMPERATURAS MAXIMAS ANUALES EN EL DEPARTAMENTO DE CORDOBA. FUENTE: IDEAM (2025)
 
 LINK:
 [[https://drive.google.com/file/d/15QFMh3ZtMu5xEWg17UpTwH7_JftKZ0TV/view?usp=drive_link]{.underline}](https://drive.google.com/file/d/15QFMh3ZtMu5xEWg17UpTwH7_JftKZ0TV/view?usp=drive_link)

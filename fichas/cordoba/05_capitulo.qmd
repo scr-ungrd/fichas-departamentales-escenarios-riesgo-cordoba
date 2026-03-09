@@ -31,7 +31,7 @@ frente a inundaciones y fenómenos climáticos extremos.
 
 ![](./media/image27.png){width="4.05in" height="2.262228783902012in"}
 
-######## FIGURA. 19 Consolidado de eventos históricos en el Departamento de Córdoba (1938-2023). Fuente: UNGRD (2024)
+######## Figura 19 Consolidado de eventos históricos en el Departamento de Córdoba (1938-2023). Fuente: UNGRD (2024)
 
 Según el visor de consolidado de emergencias se reportaron 2.088 eventos
 durante el periodo del 1938-2024, las perdidas y daños totales de estos
@@ -44,14 +44,14 @@ destruidas y 171 centros educativos afectados.
 ![](./media/image28.png){width="5.111383420822397in"
 height="1.2894225721784778in"}
 
-######## FIGURA 20 Reporte de afectaciones por eventos presentados en el departamento de Córdoba (1938-2024). Fuente: UNGRD (2024)
+######## Figura 20 Reporte de afectaciones por eventos presentados en el departamento de Córdoba (1938-2024). Fuente: UNGRD (2024)
 
 ### 5.1.2. Análisis de los municipios con más reportes de emergencias (1938-2023).
 
 ![](./media/image29.png){width="3.6992793088363953in"
 height="3.143844050743657in"}
 
-######## FIGURA 21 Reporte de afectaciones en municipios por eventos presentados en el departamento de Córdoba (1938-2024). Fuente: UNGRD (2024)
+######## Figura 21 Reporte de afectaciones en municipios por eventos presentados en el departamento de Córdoba (1938-2024). Fuente: UNGRD (2024)
 
 *Link:
 [[https://docs.google.com/spreadsheets/d/1qhhtHFBTsAgIUPArlf_MnAlrnexpvjUM/edit?usp=drive_link&ouid=108412018052088229189&rtpof=true&sd=true]{.underline}](https://docs.google.com/spreadsheets/d/1qhhtHFBTsAgIUPArlf_MnAlrnexpvjUM/edit?usp=drive_link&ouid=108412018052088229189&rtpof=true&sd=true)*
@@ -114,7 +114,7 @@ eventos de gran magnitud (CVS, 2018). 
 ![](./media/image30.png){width="3.083660323709536in"
 height="3.7003926071741033in"}
 
-######## FIGURA 22 Mapa de municipios afectados por vendavales en el departamento de Córdoba. Fuente: Plan Departamental de Gestión del Riesgo de Desastres, Gobernación de Córdoba y CVS (2021), versión pdf, pg. 251.
+######## Figura 22 Mapa de municipios afectados por vendavales en el departamento de Córdoba. Fuente: Plan Departamental de Gestión del Riesgo de Desastres, Gobernación de Córdoba y CVS (2021), versión pdf, pg. 251.
 
 Este mapa muestra los municipios del departamento de Córdoba afectados
 históricamente por vendavales, marcados en color rojo. La mayor parte
@@ -154,12 +154,12 @@ sequía impacta la producción de pastos, lo que disminuye la producción
 de leche y carne, afectando gravemente la economía local. Según la
 Federación de Ganaderos (FEDEGAN), en la sequía de 2014 -- 2015 se
 reportó la pérdida de aproximadamente 24.500 hectáreas y la muerte de
-4.700 cabezas de ganado en Córdoba (CVS, 2018).  
+## 4.700 cabezas de ganado en Córdoba (CVS, 2018).  
 
 ![](./media/image31.png){width="3.41166447944007in"
 height="3.711926946631671in"}
 
-######## FIGURA 23 Mapa de municipios declarados en calamidad pública por desabastecimiento de agua potable. Fuente: Plan Departamental de Gestión del Riesgo de Desastres, Gobernación de Córdoba y CVS (2021), versión pdf, pg. 243.
+######## Figura 23 Mapa de municipios declarados en calamidad pública por desabastecimiento de agua potable. Fuente: Plan Departamental de Gestión del Riesgo de Desastres, Gobernación de Córdoba y CVS (2021), versión pdf, pg. 243.
 
 Este mapa muestra los municipios de Córdoba que han sido declarados en
 calamidad pública por desabastecimiento de agua potable, resaltados en
@@ -194,7 +194,7 @@ cuencas, aumentando la vulnerabilidad de los territorios (UNGRD,
 ![](./media/image32.png){width="2.642247375328084in"
 height="3.2256944444444446in"}
 
-######## FIGURA 24 Histórico de áreas afectadas por inundación en el departamento de Córdoba. Fuente: Plan Departamental de Gestión del Riesgo de Desastres, Gobernación de Córdoba y CVS (2021), versión pdf, pg. 196.
+######## Figura 24 Histórico de áreas afectadas por inundación en el departamento de Córdoba. Fuente: Plan Departamental de Gestión del Riesgo de Desastres, Gobernación de Córdoba y CVS (2021), versión pdf, pg. 196.
 
 Este mapa muestra las zonas históricamente afectadas por inundaciones en
 el departamento de Córdoba, resaltadas en color azul oscuro. Las áreas
@@ -301,7 +301,7 @@ medidas de protección y cambios en el uso del suelo (CVS, 2021).  
 ![](./media/image33.png){width="2.8793011811023623in"
 height="3.1120013123359582in"}
 
-######## FIGURA 25 Zonificación de amenaza por movimientos en masa en el departamento de Córdoba. Fuente: Plan Departamental de Gestión del Riesgo de Desastres, Gobernación de Córdoba y CVS (2021), versión pdf, pg. 259.
+######## Figura 25 Zonificación de amenaza por movimientos en masa en el departamento de Córdoba. Fuente: Plan Departamental de Gestión del Riesgo de Desastres, Gobernación de Córdoba y CVS (2021), versión pdf, pg. 259.
 
 Según el análisis de amenaza por movimiento en masa para el departamento
 de Córdoba, el sur de Córdoba, es decir, las subregiones del Alto Sinú y
@@ -357,7 +357,7 @@ Sismos]{.underline}](https://www.sgc.gov.co/sismos)
 ![](./media/image34.jpg){width="3.6586581364829396in"
 height="3.5593438320209976in"}
 
-######## FIGURA 26 Pérdida Anual Esperada por Sismo a nivel Municipal. Fuente: Portal Geográfico del Conocimiento del riesgo de desastres (2025).
+######## Figura 26 Pérdida Anual Esperada por Sismo a nivel Municipal. Fuente: Portal Geográfico del Conocimiento del riesgo de desastres (2025).
 
 *Link:
 [[https://ungrd.maps.arcgis.com/apps/dashboards/dcd959995f3a480aa2b9bf50bc56e78d]{.underline}](https://ungrd.maps.arcgis.com/apps/dashboards/dcd959995f3a480aa2b9bf50bc56e78d)*
@@ -395,7 +395,7 @@ asociado a un periodo de retorno de 475 años. 
 
 ![](./media/image35.jpg){width="3.716666666666667in" height="2.175in"}
 
-######## FIGURA. 27 Mapa amenaza por tsunami -- Atlántico. Fuente: Atlas de riesgo de Colombia, UNGRD (2021), pg. 38.
+######## Figura 27 Mapa amenaza por tsunami -- Atlántico. Fuente: Atlas de riesgo de Colombia, UNGRD (2021), pg. 38.
 
 *Link:
 [[https://drive.google.com/file/d/1XS7wURqTKYck8hL5dIyVPWD0SqVn4fOE/view?usp=drive_link]{.underline}](https://drive.google.com/file/d/1XS7wURqTKYck8hL5dIyVPWD0SqVn4fOE/view?usp=drive_link)*
@@ -407,7 +407,7 @@ nivel departamental y municipal.  
 ![](./media/image36.png){width="3.6843350831146107in"
 height="3.459273840769904in"}
 
-######## FIGURA. 28 Mapa de pérdida Anual Esperada por Tsunami a nivel Municipal. Fuente: Diagnostico de información del riesgo de desastres departamento de Córdoba, UNGRD (2021), pg. 9.
+######## Figura 28 Mapa de pérdida Anual Esperada por Tsunami a nivel Municipal. Fuente: Diagnostico de información del riesgo de desastres departamento de Córdoba, UNGRD (2021), pg. 9.
 
 *Link:
 [[https://ungrd.maps.arcgis.com/apps/dashboards/dcd959995f3a480aa2b9bf50bc56e78d]{.underline}](https://ungrd.maps.arcgis.com/apps/dashboards/dcd959995f3a480aa2b9bf50bc56e78d)*
@@ -452,7 +452,7 @@ que evidencia la urgencia de medidas de mitigación (CVS, 2021).  
 ![](./media/image37.png){width="3.834740813648294in"
 height="4.800152012248469in"}
 
-######## *FIGURA 29 Puntos críticos en la cuenca del río Sinú. Fuente*: Plan Departamental de Gestión del Riesgo de Desastres, Gobernación de Córdoba y CVS (2021), versión pdf, pg. *212.*
+######## *Figura 29 Puntos críticos en la cuenca del río Sinú. Fuente*: Plan Departamental de Gestión del Riesgo de Desastres, Gobernación de Córdoba y CVS (2021), versión pdf, pg. *212.*
 
 *Link:
 [[https://drive.google.com/file/d/1oj27ff9ZG4AUTwDZrFSv1SLVEEILtSWK/view?usp=drive_link]{.underline}](https://drive.google.com/file/d/1oj27ff9ZG4AUTwDZrFSv1SLVEEILtSWK/view?usp=drive_link)*
@@ -460,7 +460,7 @@ height="4.800152012248469in"}
 ![](./media/image38.png){width="3.4674245406824147in"
 height="4.400962379702537in"}
 
-######## FIGURA. 30 Puntos Críticos en la cuenca del río San Jorge. Fuente: Plan Departamental de Gestión del Riesgo de Desastres, Gobernación de Córdoba y CVS (2021), versión pdf, pg. 216.
+######## Figura 30 Puntos Críticos en la cuenca del río San Jorge. Fuente: Plan Departamental de Gestión del Riesgo de Desastres, Gobernación de Córdoba y CVS (2021), versión pdf, pg. 216.
 
 *Link:*
 *[[https://drive.google.com/file/d/1oj27ff9ZG4AUTwDZrFSv1SLVEEILtSWK/view?usp=drive_link]{.underline}](https://drive.google.com/file/d/1oj27ff9ZG4AUTwDZrFSv1SLVEEILtSWK/view?usp=drive_link)*
@@ -516,7 +516,7 @@ con acantilados bajos sin playas, que sufren un proceso de socavación en
 
 ![](./media/image39.png){width="3.3720395888013996in" height="4.185in"}
 
-######## FIGURA. 31 Mapa de puntos críticos por Erosión Costera en el Departamento de Córdoba. Fuente: : Plan Departamental de Gestión del Riesgo de Desastres, Gobernación de Córdoba y CVS (2021), versión pdf, pg. 225.
+######## Figura 31 Mapa de puntos críticos por Erosión Costera en el Departamento de Córdoba. Fuente: : Plan Departamental de Gestión del Riesgo de Desastres, Gobernación de Córdoba y CVS (2021), versión pdf, pg. 225.
 
  *Link:
 [[https://drive.google.com/file/d/1oj27ff9ZG4AUTwDZrFSv1SLVEEILtSWK/view?usp=drive_link]{.underline}](https://drive.google.com/file/d/1oj27ff9ZG4AUTwDZrFSv1SLVEEILtSWK/view?usp=drive_link)*
@@ -584,7 +584,7 @@ San Bernardo del Viento, San Antero.
 > ![](./media/image40.png){width="3.4756452318460194in"
 > height="3.7673665791776028in"}
 
-######## FIGURA. 32 Mapa de municipios con presencia de volcanismo de lodo. Fuente: Plan Departamental de Gestión del Riesgo de Desastres, Gobernación de Córdoba y CVS (2021), versión pdf, pg. 276.
+######## Figura 32 Mapa de municipios con presencia de volcanismo de lodo. Fuente: Plan Departamental de Gestión del Riesgo de Desastres, Gobernación de Córdoba y CVS (2021), versión pdf, pg. 276.
 
 *Link:
 [[https://drive.google.com/file/d/1oj27ff9ZG4AUTwDZrFSv1SLVEEILtSWK/view?usp=drive_link]{.underline}](https://drive.google.com/file/d/1oj27ff9ZG4AUTwDZrFSv1SLVEEILtSWK/view?usp=drive_link)*
@@ -634,7 +634,7 @@ desarrollo económico y sostenibilidad (Ordenanza 0009, 2020).
 
 ![](./media/image41.png){width="3.2827351268591425in" height="2.9in"}
 
-######## FIGURA. 33 Mapa de calor para riesgos Natech, accidentes tecnológicos reportados en el departamento de Córdoba entre 2011 y 2024. Fuente: UNGRD (2025)
+######## Figura 33 Mapa de calor para riesgos Natech, accidentes tecnológicos reportados en el departamento de Córdoba entre 2011 y 2024. Fuente: UNGRD (2025)
 
 *Link:
 [[https://lookerstudio.google.com/u/0/reporting/a7a6878c-41ed-48ae-9f01-7f3882928f2a/page/Y9M8E]{.underline}](https://lookerstudio.google.com/u/0/reporting/a7a6878c-41ed-48ae-9f01-7f3882928f2a/page/Y9M8E)*
@@ -660,7 +660,7 @@ clasificada por color, según información proporcionada por el DANE.
 ![](./media/image42.png){width="5.49823709536308in"
 height="3.9174464129483813in"}
 
-######## FIGURA. 34 Tipo de industrias y su ubicación en el departamento de Córdoba. Adaptado de: DANE, 2025.
+######## Figura 34 Tipo de industrias y su ubicación en el departamento de Córdoba. Adaptado de: DANE, 2025.
 
 *Link:
 [[https://lookerstudio.google.com/u/0/reporting/a7a6878c-41ed-48ae-9f01-7f3882928f2a/page/Y9M8E]{.underline}](https://lookerstudio.google.com/u/0/reporting/a7a6878c-41ed-48ae-9f01-7f3882928f2a/page/Y9M8E)*
@@ -679,7 +679,7 @@ en zonas industriales.
 ![](./media/image43.png){width="2.9242639982502188in"
 height="3.5778248031496065in"}
 
-######## FIGURA. 35 Ubicación de las Hidroeléctricas Urrá e Ituango. Fuente: Plan Departamental de Gestión del Riesgo de Desastres, Gobernación de Córdoba y CVS (2021), versión pdf, pg. 294.
+######## Figura 35 Ubicación de las Hidroeléctricas Urrá e Ituango. Fuente: Plan Departamental de Gestión del Riesgo de Desastres, Gobernación de Córdoba y CVS (2021), versión pdf, pg. 294.
 
 *Link:
 [[https://drive.google.com/file/d/1oj27ff9ZG4AUTwDZrFSv1SLVEEILtSWK/view?usp=drive_link]{.underline}](https://drive.google.com/file/d/1oj27ff9ZG4AUTwDZrFSv1SLVEEILtSWK/view?usp=drive_link)*
@@ -740,7 +740,7 @@ Moñitos; y el Bajo Sinú, donde Cotorra presenta la mayor amenaza (CVS,
 ![](./media/image44.png){width="3.4885433070866143in"
 height="4.082661854768154in"}
 
-######## FIGURA. 36 Mapa de amenaza por incendios forestales. Fuente: Plan Departamental de Gestión del Riesgo de Desastres, Gobernación de Córdoba y CVS (2021), versión pdf, pg. 234.
+######## Figura 36 Mapa de amenaza por incendios forestales. Fuente: Plan Departamental de Gestión del Riesgo de Desastres, Gobernación de Córdoba y CVS (2021), versión pdf, pg. 234.
 
 *Link:*
 *[[https://drive.google.com/file/d/1oj27ff9ZG4AUTwDZrFSv1SLVEEILtSWK/view?usp=drive_link]{.underline}](https://drive.google.com/file/d/1oj27ff9ZG4AUTwDZrFSv1SLVEEILtSWK/view?usp=drive_link)*

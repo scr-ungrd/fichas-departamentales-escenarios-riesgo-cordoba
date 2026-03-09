@@ -15,7 +15,7 @@ encuentra una fracción del Parque Nacional Natural Paramillo, que es una
 de las mayores concentraciones de biodiversidad representativa para el
 país y lugar de nacimiento de los ríos Sinú y San Jorge. Sus sistemas
 montañosos, que llegan a la zona costera, presentan alturas de hasta
-2.200 msnm. De esta manera su orografía, su hidrografía (ríos San Jorge,
+## 2.200 msnm. De esta manera su orografía, su hidrografía (ríos San Jorge,
 Sinú y Canalete) y su íntima relación con la costa.
 
 En un informe del año 2005, la CVS, muestra la subregionalización
@@ -45,7 +45,7 @@ VI. Costanera, constituida por los municipios de San Antero, San
 ![](./media/image22.png){width="4.365534776902887in"
 height="5.940277777777778in"}
 
-######## FIGURA 15 Mapa de las subregiones ambientales del departamento. FUENTE: Fundación Herencia Ambiental Caribe (2020)
+######## Figura 15 Mapa de las subregiones ambientales del departamento. FUENTE: Fundación Herencia Ambiental Caribe (2020)
 
 ### 4.1. Parques nacionales naturales (PNN).
 
@@ -94,7 +94,7 @@ territorio.
 
 Los municipios con registros arqueológicos fueron: Ayapel, Buenavista,
 Montelíbano, Planeta Rica, Pueblo Nuevo, Puerto Libertador, San
-Marcos. (Ver la tabla 8)
+Marcos. (Ver la Tabla 8)
 
 []{#_Toc216552978 .anchor}Tabla 8 Hallazgos arqueológicos en el
 departamento. Fuente: ICANH (2025).
@@ -121,7 +121,7 @@ departamento. Fuente: ICANH (2025).
 ![](./media/image23.png){width="5.023319116360455in"
 height="2.378659230096238in"}
 
-######## FIGURA 16 Visor web del ICANH. Fuente: <https://geoparques.icanh.gov.co/#/>
+######## Figura 16 Visor web del ICANH. Fuente: <https://geoparques.icanh.gov.co/#/>
 
 ### 4.3. Ecosistemas estratégicos.
 
@@ -151,7 +151,7 @@ height="1.2666404199475065in"}
 ![](./media/image25.png){width="3.9496883202099737in"
 height="2.1892825896762904in"}
 
-######## FIGURA 17 Áreas protegidas en el Departamento de Córdoba. Fuente: RUNAP -- PNN (2025).
+######## Figura 17 Áreas protegidas en el Departamento de Córdoba. Fuente: RUNAP -- PNN (2025).
 
 Este gráfico muestra las áreas protegidas en el departamento de Córdoba,
 destacando su tamaño en hectáreas. El Parque Nacional Natural Paramillo
@@ -223,11 +223,11 @@ hidrográfica del departamento de Córdoba, en base del mapa digital del
 IGAC (2002), este insumo grafico permite visualizar los principales
 ríos, los cuerpos de agua más representativos del departamento, las
 cabeceras municipales (color rojo) y puertos fluviales y marítimos en el
-departamento. (Ver figura 17)
+departamento. (Ver Figura 17)
 
 ![Mapa Hidrografía
 Córdoba](./media/image26.jpg){width="2.0846959755030623in"
 height="3.3104975940507435in"}
 
-######## FIGURA 18 Mapa hidrográfico del departamento de Córdoba. FUENTE: Sociedad Geográfica de Colombia
+######## Figura 18 Mapa hidrográfico del departamento de Córdoba. FUENTE: Sociedad Geográfica de Colombia
 

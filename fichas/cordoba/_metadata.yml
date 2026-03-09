@@ -2,7 +2,7 @@ title-block-banner: "https://images.unsplash.com/photo-1451187580459-43490279c0f
 title-block-banner-color: "black"
 format:
   html:
-    theme: 
+    theme:
       - cosmo
       - ../../custom.scss
     toc: true
