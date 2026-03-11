@@ -1,5 +1,6 @@
 ---
 title: "1. INTRODUCCIÓN"
+subtitle: "Ficha Departamental: Cordoba"
 author:
   - name: "Unidad Nacional para la Gestión del Riesgo de Desastres"
     affiliations:

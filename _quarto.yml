@@ -1,13 +1,10 @@
 project:
   type: website
   output-dir: docs
-  resources:
-    - "images/Logo_UNGRD.png"
 
 website:
   title: "Fichas de Riesgo UNGRD"
   sidebar:
-    logo: "images/Logo_UNGRD.png"
     style: "docked"
     search: true
     contents: auto

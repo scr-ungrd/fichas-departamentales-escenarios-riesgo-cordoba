@@ -1,7 +1,9 @@
 ---
 title: "2. CARACTERIZACIÓN TERRITORIAL Y AMBIENTAL"
+subtitle: "Ficha Departamental: Cordoba"
 ---
 
+# 2. CARACTERIZACIÓN TERRITORIAL Y AMBIENTAL
 
 ------------------------------------------
 
