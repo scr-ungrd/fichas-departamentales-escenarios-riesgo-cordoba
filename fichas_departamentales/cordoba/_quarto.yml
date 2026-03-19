@@ -2,19 +2,21 @@ project:
   type: book
 
 book:
-  title: "Ficha Departamental: Cordoba"
+  title: "Ficha Departamental"
   author: "UNGRD"
   page-navigation: true
   chapters:
-    - index.qmd
-    - 00_legal.qmd
-    - 01_introduccion.qmd
-    - 02_capitulo.qmd
-    - 03_capitulo.qmd
-    - 04_capitulo.qmd
-    - 05_capitulo.qmd
-    - 06_capitulo.qmd
-    - 07_capitulo.qmd
+    - part: "Cordoba"
+      chapters:
+        - index.qmd
+        - 00_presentacion.qmd
+        - 01_introduccion.qmd
+        - 02_capitulo.qmd
+        - 03_capitulo.qmd
+        - 04_capitulo.qmd
+        - 05_capitulo.qmd
+        - 06_capitulo.qmd
+        - 07_capitulo.qmd
 
 format:
   html:

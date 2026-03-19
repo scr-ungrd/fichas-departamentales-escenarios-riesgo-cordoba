@@ -1,5 +1,5 @@
 ---
-title: "Presentación"
+title: "Información Legal"
 subtitle: "Ficha Departamental: Cordoba"
 author:
   - name: "Unidad Nacional para la Gestión del Riesgo de Desastres"
@@ -10,8 +10,46 @@ title-block-banner: "https://images.unsplash.com/photo-1451187580459-43490279c0f
 title-block-banner-color: "black"
 ---
 
-::: {.bg-presentacion}
-# Presentación
+# Información Legal
 
-Aquí se inyectará el prólogo o presentación oficial de la UNGRD para el documento de Cordoba.
-:::
+GUSTAVO FRANCISCO PETRO URREGO
+Presidente de Colombia
+CARLOS ALBERTO CARRILLO ARENAS
+
+Director General
+
+Unidad Nacional de Gestión de Riesgo de Desastres – UNGRD
+
+RAFAEL ENRIQUE CRUZ RODRÍGUEZ
+Subdirector General – UNGRD
+ANA MILENA PRADA URIBE
+
+Subdirectora para el Conocimiento del Riesgo – UNGRD
+
+Elaborado por
+
+SANDRA MENDOZA O
+ANDRÉS TAFUR CASTAÑO
+NICOLÁS ESPITIA RODRIGUEZ
+Equipo técnico
+
+Subdirección para el Conocimiento del Riesgo - UNGRD
+
+X
+Revisión Técnica
+
+Subdirección para la Reducción del Riesgo de Desastres - UNGRD
+
+X
+
+Revisión de estilo - UNGRD
+IVÁN MERCHÁN RODRÍGUEZ
+Diseño editorial - UNGRD
+
+Derechos reservados
+
+Reproducción parcial o total del presente documento permitida
+con mención de la fuente www.gestiondelriesgo.gov.co
+
+ISBN xxxxxxxxxxxxx
+Bogotá D.C., septiembre de 2025
