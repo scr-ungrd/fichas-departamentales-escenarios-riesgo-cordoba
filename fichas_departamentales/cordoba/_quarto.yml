@@ -9,6 +9,7 @@ book:
     - part: "Cordoba"
       chapters:
         - index.qmd
+        - 00_legal.qmd
         - 00_presentacion.qmd
         - 01_introduccion.qmd
         - 02_capitulo.qmd
