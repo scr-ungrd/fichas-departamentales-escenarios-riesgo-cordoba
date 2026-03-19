@@ -1,0 +1,9 @@
+---
+title: "Presentación"
+---
+
+::: {.bg-presentacion}
+# Presentación
+
+Aquí se inyectará el prólogo o presentación oficial de la UNGRD para el documento de Cordoba.
+:::

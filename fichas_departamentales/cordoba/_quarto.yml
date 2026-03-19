@@ -1,0 +1,29 @@
+project:
+  type: book
+
+book:
+  title: "Ficha Departamental: Cordoba"
+  author: "UNGRD"
+  page-navigation: true
+  chapters:
+    - index.qmd
+    - 00_legal.qmd
+    - 01_introduccion.qmd
+    - 02_capitulo.qmd
+    - 03_capitulo.qmd
+    - 04_capitulo.qmd
+    - 05_capitulo.qmd
+    - 06_capitulo.qmd
+    - 07_capitulo.qmd
+
+format:
+  html:
+    theme:
+      - cosmo
+      - ../../custom.scss
+    title-block-banner: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=2072"
+    title-block-banner-color: "black"
+    toc: true
+crossref:
+  fig-prefix: "Figura"
+  tbl-prefix: "Tabla"
