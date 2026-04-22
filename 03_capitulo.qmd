@@ -71,7 +71,7 @@ Convenciones:
 
 ######## Figura 10 Indicadores de la tercera comunicación de cambio climático del departamento. FUENTE: Tomado de IDEAM & UNGRD (2025).
 
-######### Análisis general de los escenarios climáticos de la tercera comunicación.
+### Análisis general de los escenarios climáticos de la tercera comunicación.
 
 Los indicadores del IDEAM enseñan unas proyecciones de valores para los componentes o sectores principales para el desarrollo y sostenibilidad de la comunidad, logrando estimar niveles diferenciados de amenaza, sensibilidad, capacidad adaptativa, vulnerabilidad y riesgo según el sector analizado.
 
@@ -81,7 +81,7 @@ Los componentes con mayor peso en la estructura del riesgo son la seguridad alim
 
 El modelo evidencia que estos impactos son consistentes con la vulnerabilidad geográfica del departamento, ubicado entre la región Caribe y el valle del Sinú, zonas fuertemente influenciadas por los cambios en los patrones de lluvia y temperatura proyectados por los modelos climáticos globales. El análisis de riesgo climático para el departamento de Córdoba muestra que el componente de biodiversidad (BD) presenta el mayor nivel de riesgo, con un valor de 0,53, clasificado como muy alto, lo que indica una fuerte amenaza para los servicios ecosistémicos. En contraste, los componentes de salud (HH), infraestructura (I) y recurso hídrico (RH) tienen riesgos más bajos.
 
-######### Vulnerabilidad y sensibilidad
+### Vulnerabilidad y sensibilidad
 
 La vulnerabilidad es más crítica en HH y BD, mientras que la capacidad adaptativa es especialmente baja en BD, lo que agrava el riesgo. Estos resultados resaltan la necesidad urgente de fortalecer acciones de adaptación ambiental, especialmente en zonas con alta presión ecológica.
 
@@ -99,7 +99,7 @@ Los municipios con mayores valores de riesgo total, como San Bernardo del Viento
 
 ######## Figura 11 Indicadores de cambio climático por municipio del departamento de Córdoba. Fuente: Tomado de IDEAM (2022).
 
-######### Conclusiones
+### Conclusiones
 
 Como se observa el departamento de Córdoba clasifica como riesgo muy alto por diversidad, es decir, amenaza que el cambio climático representa para la pérdida de servicios ecosistémicos y riesgo medio en el indicador de salud, lo cual se refiere a un nivel de riesgo moderado que enfrenta la población debido a los impactos del cambio climático en la salud pública. Los cinco municipios del departamento en el riesgo muy alto por los seis indicadores de la tercera comunicación son: *San Bernardo del Viento, Lorica, Cereté, Montería, Cotorra.*
 
@@ -141,7 +141,7 @@ Link:[[https://drive.google.com/file/d/1QOJ5VKz6-xRtQN1GHx6x03Izj7V965cq/view?us
 
 Con base en las definiciones anteriores, en las siguientes secciones se exponen las proyecciones climáticas futuras de precipitación, temperaturas media, máxima y mínima, humedad relativa, velocidad del viento y radiación para el siglo XXI, las cuales corresponden a los escenarios de cambio climático que se deben incorporar en la Cuarta Comunicación Nacional de Colombia.
 
-######### Análisis general de los escenarios climáticos SSP
+### Análisis general de los escenarios climáticos SSP
 
 Para el departamento de Córdoba, estos escenarios permiten anticipar cómo las decisiones globales en materia de energía, economía y gobernanza podrían modificar las condiciones de temperatura y precipitación hacia el año 2100.
 
@@ -163,7 +163,7 @@ LINK: [[https://drive.google.com/file/d/1F0r1mJKU387P8f3dV2EZAcpNrfoGNYoS/view?u
 
 LINK: [[https://drive.google.com/file/d/15QFMh3ZtMu5xEWg17UpTwH7_JftKZ0TV/view?usp=drive_link]{.underline}](https://drive.google.com/file/d/15QFMh3ZtMu5xEWg17UpTwH7_JftKZ0TV/view?usp=drive_link)
 
-######### Conclusiones e interpretaciones finales.
+### Conclusiones e interpretaciones finales.
 
 En resumen, los escenarios climáticos del IDEAM advierten que Córdoba será más cálido y más seco en todos los escenarios futuros, con mayor severidad bajo trayectorias de desarrollo insostenible (SSP3 y SSP5). La reducción de lluvias y el incremento térmico se traducen en mayor vulnerabilidad hídrica, afectando la agricultura, la ganadería y los ecosistemas acuáticos que sustentan la economía y el bienestar regional. Los municipios del medio y bajo Sinú ---como Cereté, Lorica, San Bernardo del Viento y Purísima--- enfrentarán un riesgo combinado de sequías, pérdida de productividad y deterioro de la calidad del agua, mientras que los sectores costeros podrían sufrir intrusión salina y degradación de humedales costeros.
 
