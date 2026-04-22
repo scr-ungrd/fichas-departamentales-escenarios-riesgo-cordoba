@@ -1,55 +1,51 @@
-# 🌍 Portal de Fichas Departamentales de Riesgo - UNGRD
+# 🌍 Ficha Departamental de Caracterización de Escenarios de Riesgo - Córdoba
 
-Este proyecto centraliza y automatiza la generación de las **Fichas Departamentales de Caracterización de Escenarios de Riesgo** de la UNGRD. Convierte documentación técnica colaborativa (`.docx`) en un ecosistema web interactivo desarrollado con **Quarto**, permitiendo una consulta ágil y profesional de la información de riesgo en Colombia.
+![Quarto](https://img.shields.io/badge/Quarto-v1.4+-0078D4?style=for-the-badge&logo=quarto&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-## 🚀 Flujo de Automatización (CI/CD)
+Este repositorio contiene la **Ficha Departamental de Caracterización de Escenarios de Riesgo para el departamento de Córdoba**. Es un documento técnico interactivo desarrollado con **Quarto**, que permite una consulta ágil y profesional de la información de riesgo territorial y ambiental.
 
-El sistema opera mediante un pipeline integrado que asegura que la web siempre refleje la última versión de los documentos técnicos:
+Para consultar el portal nacional con el mapa interactivo de todos los departamentos, por favor visite nuestra nueva **[Landing Page Global](https://portal-riesgo-colombia.ungrd.gov.co)**.
 
-1.  **Origen de Datos (Google Drive):** Los especialistas técnicos mantienen las fichas en archivos Word (`.docx`) dentro de carpetas compartidas.
-2.  **Extracción y Transformación (Google Colab):**
-    - Un script especializado en **Google Colab** actúa como motor ETL.
-    - Descarga los documentos de Drive y utiliza **Pandoc** para la conversión base a Markdown.
-    - Realiza una limpieza profunda mediante Python (regex): elimina TOCs estáticos, estandariza tablas en formato Grid, y extrae imágenes a rutas locales.
-    - **Segmentación:** El script divide el documento original en capítulos (`01_capitulo.qmd`, `02_capitulo.qmd`, etc.) para mejorar la navegación y carga del sitio.
-3.  **Control de Versiones (GitHub):** El script de Colab realiza un `push` automático de los archivos procesados a este repositorio.
-4.  **Generación de Sitio (GitHub Actions):** Al detectar cambios en `main`, un workflow dispara la compilación de Quarto, aplicando estilos SASS personalizados y generando el sitio estático en la carpeta `docs/`.
-5.  **Despliegue:** El sitio se publica automáticamente en **GitHub Pages**.
+## ✨ Características de la Ficha
+
+- **Navegación Intuitiva:** Estructura de libro con tabla de contenidos dinámica.
+- **Contenido Técnico Detallado:** Incluye aspectos legales, presentación institucional y capítulos especializados de riesgo.
+- **Diseño Corporativo:** Estilos SASS (`custom.scss`) que garantizan la identidad visual de la UNGRD.
+- **Automatización:** Procesado automáticamente desde fuentes técnicas para asegurar la integridad de la información.
+
+## 🚀 Flujo de Actualización
+
+1.  **Origen:** Los especialistas técnicos mantienen la información en documentos Word estructurados.
+2.  **Procesamiento:** Un script ETL transforma el contenido a formato Markdown compatible con Quarto.
+3.  **Despliegue:** GitHub Actions compila el libro y lo publica automáticamente.
 
 ## 📂 Estructura del Repositorio
 
-La arquitectura del proyecto está optimizada para la publicación multilibro de Quarto:
-
 ```text
 fichas-ungrd/
-├── _quarto.yml               # Configuración global del sitio (menús, temas, búsqueda)
-├── custom.scss               # Identidad visual corporativa (colores UNGRD, tipografías, tablas)
-├── index.qmd                 # Página de inicio del portal
-├── fichas/                   # Directorio raíz de contenido técnico
-│   └── [departamento]/       # Carpeta por cada departamento (ej: cordoba)
-│       ├── _metadata.yml     # Configuración específica del departamento
-│       ├── index.qmd         # Portada de la ficha departamental
-│       ├── 01_capitulo.qmd   # Secciones desglosadas (Ej: Caracterización General)
-│       ├── ...               # Otros capítulos técnicos
-│       └── media/            # Imágenes y mapas extraídos del Word original
+├── _quarto.yml                 # Configuración del libro de Córdoba
+├── custom.scss                 # Estilos institucionales (SASS)
+├── index.qmd                   # Portada de la ficha de Córdoba
+├── 00_legal.qmd                # Marco legal y créditos
+├── 00_presentacion.qmd         # Presentación institucional
+├── 01_introduccion.qmd         # Introducción a la caracterización
+├── 02_capitulo.qmd             # Capítulos técnicos...
+├── ...                         # (03 al 07_capitulo.qmd)
+├── media/                      # Mapas, gráficos y figuras del departamento
 ├── .github/workflows/
-│   └── publish.yml           # Pipeline de despliegue automático
-├── docs/                     # Archivos finales renderizados (para GitHub Pages)
-└── README.md                 # Documentación del sistema
+│   └── publish.yml             # Pipeline de despliegue
+└── docs/                       # Sitio web renderizado final
 ```
-
-## 🎨 Personalización y Estilo
-
-El proyecto utiliza un sistema de estilos avanzado definido en `custom.scss` que incluye:
-
-- **Diseño Premium:** Uso de la fuente _Source Sans Pro_ y banners dinámicos.
-- **Cajas Especializadas:** Estilos para "Resumen", "Abstract" y "Callouts" de importancia.
-- **Optimización de Medios:** Centrado automático de figuras, sombras elegantes y títulos en negrita.
-- **Tablas Profesionales:** Formateo automático de tablas con encabezados destacados y tipografía Arial para máxima legibilidad.
 
 ## 🛠️ Tecnologías Core
 
-- **Quarto:** Framework de publicación científica para el renderizado del sitio.
-- **Python (Google Colab):** Para la automatización del procesamiento de texto y gestión de archivos.
-- **SASS/SCSS:** Para la personalización profunda de la interfaz de usuario.
-- **GitHub Actions:** Orquestación de la integración continua.
+- **Quarto:** Framework de publicación técnica para el renderizado del libro.
+- **Python:** Gestión y limpieza de datos técnicos.
+- **SASS/SCSS:** Personalización de la interfaz de usuario.
+- **GitHub Actions:** Automatización de la integración y despliegue continuo.
+
+---
+
+© 2024 UNGRD - Unidad Nacional para la Gestión del Riesgo de Desastres.

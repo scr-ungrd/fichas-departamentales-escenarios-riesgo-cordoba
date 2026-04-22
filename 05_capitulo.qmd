@@ -1,13 +1,11 @@
 ---
 title: "5. IDENTIFICACIÓN DE ESCENARIOS DE RIESGO"
-subtitle: "Ficha Departamental: Cordoba"
+subtitle: "Ficha departamental de caracterización de escenarios de riesgo: Departamento de Córdoba"
 author:
   - name: "Unidad Nacional para la Gestión del Riesgo de Desastres"
     affiliations:
       - name: "Subdirección para el Conocimiento del Riesgo - UNGRD"
 date: "2026"
-title-block-banner: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=2072"
-title-block-banner-color: "black"
 ---
 
 # 5. IDENTIFICACIÓN DE ESCENARIOS DE RIESGO
@@ -66,7 +64,7 @@ La distribución porcentual de eventos reportados por los municipios de Córdoba
 
 ### 5.2.2. Amenazas origen natural.
 
-### 5.2.2.1 Vendavales.
+#### 5.2.2.1 Vendavales.
 
 Los vendavales en el departamento de Córdoba representan una amenaza frecuente, caracterizada por vientos fuertes y destructivos que alcanzan velocidades de hasta 80 km/h en cortos periodos de tiempo, lo que genera afectaciones significativas en la infraestructura vital, industrial, redes de servicios públicos y sectores agropecuarios.
 
@@ -82,7 +80,7 @@ Históricamente, los municipios más afectados por vendavales en Córdoba son aq
 
 Este mapa muestra los municipios del departamento de Córdoba afectados históricamente por vendavales, marcados en color rojo. La mayor parte del territorio, especialmente en el centro, sur y suroccidente, ha sido impactada por estos fenómenos climáticos. Municipios como Tierralta, Montelíbano, Puerto Libertador y Montería presentan alta recurrencia. Las zonas del norte y oriente muestran menor afectación, aunque no están exentas. Esta información es clave para fortalecer alertas tempranas y mejorar la infraestructura ante eventos de vientos fuertes.
 
-### 5.2.2.2. Sequías.
+#### 5.2.2.2. Sequías.
 
 La sequía en el departamento de Córdoba se ha convertido en un fenómeno recurrente con graves implicaciones ambientales, económicas y sociales. De acuerdo con la UNGRD, la sequía se define como la escasez temporal de agua en una región en comparación con las condiciones habituales, fenómeno que en Colombia está influenciado por el cambio climático y eventos macroclimáticos como El Niño. Este último ha generado impactos severos en el departamento, provocando racionamientos eléctricos, disminución de los caudales de ríos y cuerpos de agua, incendios forestales y afectaciones a la salud pública (CVS, 2017). 
 
@@ -100,7 +98,7 @@ Prácticas inadecuadas, como quemas agrícolas y fogatas para ampliar la fronter
 
 ### 5.2.3. Amenazas de origen socio natural.
 
-### 5.2.3.1. Inundaciones.
+#### 5.2.3.1. Inundaciones.
 
 Las inundaciones en el departamento del Córdoba son eventos recurrentes influenciados por lluvias intensas y fenómenos climáticos como "El Niño" y "La Niña", lo que genera desbordamientos de ríos y graves afectaciones a la población, infraestructura y sector agropecuario (IDEAM, 2020).  Factores como la urbanización, la expansión agrícola y la construcción de infraestructura han modificado el comportamiento natural de las cuencas, aumentando la vulnerabilidad de los territorios (UNGRD, 2021).  
 
@@ -124,7 +122,7 @@ Respecto a información disponible en materia de inundaciones para el Departamen
 
 -   Montelíbano: Amenaza, Profundidad y Velocidad de Flujo
 
-### 5.2.3.2. Avenidas torrenciales.
+#### 5.2.3.2. Avenidas torrenciales.
 
 Cerca del 80% de la población del país reside en zonas aledañas al Sistema Montañoso de los Andes, lo cual genera condiciones de susceptibilidad muy altas debido a la topografía, a las condiciones geológicas pues el sistema montañoso está constituido por formaciones relativamente jóvenes y en evolución, además de los altos volúmenes de precipitación que se presentan anualmente.
 
@@ -141,7 +139,7 @@ La conjunción de las características mencionadas, permiten la formación de fl
 
 Recientemente, el Servicio Geológico Colombiano (SGC, 2021) construyó la "Guía metodológica para zonificación de amenaza por avenidas torrenciales" en el cual se proporcionan lineamientos técnicos para la evaluación de amenaza por avenidas torrenciales, los cuales permiten disminuir la subjetividad a la hora de abordar el problema, y sirven, además, como herramienta para la unificación de conceptos y elaboración de estudios uniformes.
 
-### 5.2.3.3. Movimientos en masa.
+#### 5.2.3.3. Movimientos en masa.
 
 Los movimientos en masa en el departamento de Córdoba corresponden a deslizamientos, desprendimientos y flujos de suelo y rocas causados por la acción de la gravedad (Cruden, 1991).
 
@@ -159,7 +157,7 @@ Según el análisis de amenaza por movimiento en masa para el departamento de C�
 
 ### 5.2.4. Amenazas de origen geológico.
 
-### 5.2.4.1. Escenario de amenaza por Sismo.
+#### 5.2.4.1. Escenario de amenaza por Sismo.
 
 Los municipios que deben tener microzonificación sísmica en el departamento de Córdoba según las estadísticas del año 2021, son: 
 
@@ -189,7 +187,7 @@ El mapa de la Figura 22 muestra la Pérdida Anual Esperada (PAE) por sismo a niv
 
 En contraste, los municipios del sur de Córdoba y algunas zonas costeras tienen menores pérdidas esperadas, oscilando entre 1.000 y 10.000 millones de pesos, posiblemente debido a su menor densidad poblacional y condiciones geológicas más favorables.
 
-### 5.2.4.2. Escenario de amenaza por Tsunami.
+#### 5.2.4.2. Escenario de amenaza por Tsunami.
 
 Los municipios que presentan escenario de amenaza son: Los Córdobas, Puerto Escondido, Moñitos, San Bernardo del Viento y San Antero.
 
@@ -213,7 +211,7 @@ El Visor Atlas del riesgo de Colombia presenta mapas con pérdida anual esperada
 
 Las tonalidades más oscuras indican mayores pérdidas económicas, con valores que superan los 2.500 millones de pesos en zonas costeras del norte. Esto sugiere una mayor exposición al riesgo de tsunamis en estos municipios, probablemente debido a su cercanía al mar y su dependencia de actividades económicas costeras. En contraste, los municipios del interior, como Montería y el sur de Córdoba, presentan pérdidas esperadas significativamente menores, inferiores a 2,5 millones de pesos, debido a su menor exposición a este fenómeno.
 
-### 5.2.4.3. Escenario de amenaza por Erosión fluvial.
+#### 5.2.4.3. Escenario de amenaza por Erosión fluvial.
 
 La erosión fluvial en el departamento de Córdoba es un fenómeno que afecta gravemente la estabilidad de los bordes de los ríos, causando el desprendimiento de partículas del suelo y la degradación de las áreas ribereñas (CVS, 2021). 
 
@@ -241,7 +239,7 @@ Por su parte, en la cuenca del río San Jorge, la erosión fluvial también repr
 
 La erosión fluvial no solo amenaza la estabilidad del territorio, sino que también compromete la seguridad de las comunidades ribereñas, lo que hace indispensable la implementación de medidas integrales de gestión del riesgo.
 
-### 5.2.4.4. Escenario de amenaza por Erosión costera
+#### 5.2.4.4. Escenario de amenaza por Erosión costera
 
 La erosión costera en el departamento de Córdoba es un proceso que afecta gravemente su territorio, debido a la combinación de factores naturales y antropogénicos. Según el Plan Maestro de Erosión Costera de Colombia (MinAmbiente, 2017), la costa del país está conformada por diversos ecosistemas como acantilados, playas y manglares, los cuales han sido impactados por la disminución en el aporte de sedimentos de los ríos, la explotación de recursos marino-costeros y la construcción descoordinada de infraestructuras. Esta problemática se ha agravado con el aumento del nivel del mar, atribuido al cambio climático y a movimientos tectónicos (INVEMAR, 2018).
 
@@ -261,7 +259,7 @@ Los principales puntos críticos incluyen localidades como Santander de la Cruz,
 
 La continua pérdida de terreno evidencia la necesidad de implementar medidas de mitigación efectivas que integren la protección ambiental y el desarrollo sostenible, pues sin acciones concretas, esta problemática seguirá intensificando en el futuro (Min Ambiente, 2017).
 
-### 5.2.4.5. Escenario de amenaza por Volcanismo de lodo.
+#### 5.2.4.5. Escenario de amenaza por Volcanismo de lodo.
 
 El volcanismo de lodo en el departamento de Córdoba es un fenómeno geológico derivado de la movilización de material arcilloso y gases a alta presión a través de fracturas, lo que genera geoformas como domos y colinas. Este proceso está influenciado por la interacción tectónica de las placas Nazca, Caribe y Suraméricana y puede activarse por factores como la compresión tectónica, el alto contenido de gases y la diferencia de densidad entre los materiales confinados (Carvajal, 2010; Carvajal, 2017). 
 
@@ -313,7 +311,7 @@ Este gráfico muestra los tipos de industrias presentes en Córdoba y su ubicaci
 
 Además de los riesgos tecnológicos, el sector industrial también está sujeto a eventos Natech --amenazas naturales que desencadenan accidentes tecnológicos o industriales. Estos escenarios pueden generar graves consecuencias a pesar de ser eventos de baja probabilidad, lo que hace que los efectos de estos accidentes sean más graves para las personas, el entorno y la infraestructura, en comparación con los provocados por un accidente tecnológico (UNGRD, 2023). Por lo anterior, este tipo de riesgos ha cobrado relevancia en el país, impulsando estrategias de gestión del riesgo conforme a la Ley 1523 de 2012 y el Decreto 2157 de 2017 (UNGRD, 2018), el Programa de Prevención de Accidentes Mayores-PPAM (Decreto 1347 de 2021) y la Resolución 0559 de 2021 que establece los valores de riesgo máximo individual accidental para instalaciones fijas. En este contexto, Córdoba también enfrenta riesgos asociados a la industria termoeléctrica y de hidrocarburos, con infraestructura clave como la termoeléctrica Gecelca y la terminal de OCENSA en San Antero. Estos proyectos demandan una planificación integral que minimice impactos ambientales y sociales, garantizando el equilibrio entre desarrollo económico y sostenibilidad (Ordenanza 0009, 2020).
 
-### 5.2.5.1. Escenario de amenaza por Incendios
+#### 5.2.5.1. Escenario de amenaza por Incendios
 
 En Colombia, la mayoría de los incendios forestales tienen un origen antrópico, ya sea de manera intencional para la expansión de la frontera agropecuaria o por negligencia en el uso del fuego en actividades como las quemas agrícolas. Según el IDEAM (2010), el país cuenta con 61.246.659 hectáreas de bosques, de las cuales cada año se ven afectadas aproximadamente 42.000 hectáreas por incendios forestales (MAVDT, 2010). Estos eventos tienen un impacto ambiental significativo, agravado por fenómenos climáticos como El Niño, que ha estado presente en años críticos como 1972, 1991-1992 y 2009-2010 (MAVDT, 2010).  
 

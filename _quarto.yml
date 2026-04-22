@@ -1,13 +1,20 @@
 project:
-  type: website
-  output-dir: docs
+  type: book
 
-website:
-  title: "Fichas de Riesgo UNGRD"
-  sidebar:
-    style: "docked"
-    search: true
-    contents: auto
+book:
+  title: "Ficha Córdoba"
+  author: "UNGRD"
+  page-navigation: true
+  chapters:
+    - index.qmd
+    - 00_legal.qmd
+    - 01_introduccion.qmd
+    - 02_capitulo.qmd
+    - 03_capitulo.qmd
+    - 04_capitulo.qmd
+    - 05_capitulo.qmd
+    - 06_capitulo.qmd
+    - 07_capitulo.qmd
 
 format:
   html:
@@ -15,4 +22,17 @@ format:
       - cosmo
       - custom.scss
     toc: true
-    html-table-processing: none
+    number-sections: false
+    title-block-banner: images/banner_cordoba.png
+    title-block-banner-color: white 
+    subtitle: "Ficha departamental de caracterización de escenarios de riesgo: Departamento de Córdoba"
+crossref:
+  fig-prefix: "Figura"
+  tbl-prefix: "Tabla"
+
+# AQUÍ SE CONFIGURA EL ENLACE AL PORTAL GLOBAL
+website:
+  navbar:
+    left:
+      - text: "⬅ Volver al Portal de Riesgo Colombia"
+        href: "https://portal-riesgo-colombia.ungrd.gov.co"

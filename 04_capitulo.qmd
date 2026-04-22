@@ -1,13 +1,11 @@
 ---
 title: "4. ÁREAS DE IMPORTANCIA AMBIENTAL DEPARTAMENTAL"
-subtitle: "Ficha Departamental: Cordoba"
+subtitle: "Ficha departamental de caracterización de escenarios de riesgo: Departamento de Córdoba"
 author:
   - name: "Unidad Nacional para la Gestión del Riesgo de Desastres"
     affiliations:
       - name: "Subdirección para el Conocimiento del Riesgo - UNGRD"
 date: "2026"
-title-block-banner: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=2072"
-title-block-banner-color: "black"
 ---
 
 # 4. ÁREAS DE IMPORTANCIA AMBIENTAL DEPARTAMENTAL
@@ -35,7 +33,7 @@ VI. Costanera, constituida por los municipios de San Antero, San Bernardo del Vi
 
 ######## Figura 15 Mapa de las subregiones ambientales del departamento. FUENTE: Fundación Herencia Ambiental Caribe (2020)
 
-### 4.1. Parques nacionales naturales (PNN).
+## 4.1. Parques nacionales naturales (PNN).
 
 Extensión (km2): Según la dirección del PNN (2025), el departamento de Córdoba dentro de su jurisdicción tiene dos (2) PNN declarados, su extensión aproximada es de 646.838 Hectáreas. Sus nombres son: PNN Corales de profunda y PNN Paramillo.
 
@@ -51,7 +49,7 @@ NÚMERO DE HECTÁREAS DE PNN EN EL DEPARTAMENTO DE CÓRDOBA
 
 []{#_Toc216552977 .anchor}Tabla 7 Número de parques Nacionales Naturales en el departamento. FUENTE: PNN (2025).
 
-### 4.2. Áreas arqueológicas protegidas.
+## 4.2. Áreas arqueológicas protegidas.
 
 La autoridad en Colombia en materia de patrimonio arqueológico es el Instituto Colombiano de Antropología e Historia (ICANH)[^1], el cual registra los hallazgos y bienes arqueológicos del país, y además declara las áreas arqueológicas protegidas en el territorio nacional. El Instituto Colombiano de Antropología e Historia tiene un geoportal en su página web, donde muestra la ubicación de los sitios arqueológicos. Se anexa el link en las referencias.
 
@@ -84,7 +82,7 @@ Los municipios con registros arqueológicos fueron: Ayapel, Buenavista, Montelí
 
 ######## Figura 16 Visor web del ICANH. Fuente: <https://geoparques.icanh.gov.co/#/>
 
-### 4.3. Ecosistemas estratégicos.
+## 4.3. Ecosistemas estratégicos.
 
 La creación del Sistema de Áreas Protegidas en Colombia se basa en un enfoque que busca conservar los ecosistemas. Para su gestión, se creó el Registro Único Nacional de Áreas Protegidas (RUNAP), según lo establecido en los Decretos 2372 de 2010 y 3572 de 2011. Esta herramienta es administrada por Parques Nacionales Naturales de Colombia y permite que cada Autoridad Ambiental registre las áreas protegidas que tiene a su cargo, a través de una plataforma nacional.
 
@@ -125,7 +123,7 @@ En el departamento de Córdoba existe una serie de ecosistemas estratégicos, lo
   Bosque                  Cerro Laguneta                                427.38
   ----------------------- --------------------------------------------- --------------------
 
-### 4.4. Cuencas hidrográficas.
+## 4.4. Cuencas hidrográficas.
 
 Dentro de la jurisdicción departamental, la CVS, el Instituto de Hidrología, Meteorología y Estudios Ambientales (IDEAM) ha identificado seis cuencas hidrográficas: Río Alto Sinú, Río Medio-Bajo Sinú, Río Alto San Jorge, Río Bajo San Jorge, Río Canalete-Río Los Córdobas, Río Mangle y otros arroyos directos del Caribe. Además de los arroyos directos del Golfo de Morrosquillo, cuya extensión dentro del departamento de Córdoba es mínima. Asimismo, la región cuenta con seis acuíferos y una gran cantidad de cuerpos de agua, incluyendo ciénagas, arroyos, embalses y represas.
 

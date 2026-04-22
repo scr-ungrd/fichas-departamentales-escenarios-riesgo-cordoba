@@ -1,19 +1,17 @@
 ---
 title: "3. EL CLIMA EN EL DEPARTAMENTO"
-subtitle: "Ficha Departamental: Cordoba"
+subtitle: "Ficha departamental de caracterización de escenarios de riesgo: Departamento de Córdoba"
 author:
   - name: "Unidad Nacional para la Gestión del Riesgo de Desastres"
     affiliations:
       - name: "Subdirección para el Conocimiento del Riesgo - UNGRD"
 date: "2026"
-title-block-banner: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=2072"
-title-block-banner-color: "black"
 ---
 
 # 3. EL CLIMA EN EL DEPARTAMENTO 
 
 
-### 3.1. Climatología en general.
+## 3.1. Climatología en general.
 
 De acuerdo con el análisis departamental realizado por el IDEAM (2014), el departamento de Córdoba presenta dos regiones climáticas diferenciadas en su territorio (ver Figura 6). Es importante destacar la función de las estaciones climatológicas del IDEAM, instaladas en los municipios de Chima, Ciénaga de Oro, Montería, Puerto Escondido y Sahagún para el registro de los datos de temperatura máxima. El registro de temperatura máxima para el departamento de Córdoba durante el periodo 1991--2020 fue de 35.3 °C.  
 
@@ -27,19 +25,19 @@ B.  Urabá y Bajo Magdalena. (Color amarillo) 
 
 *LINK: [[https://cambioclimatico.fao.org.co/wp-content/uploads/2023/06/13-CORDOBA_24.02.2023.pdf]{.underline}](https://cambioclimatico.fao.org.co/wp-content/uploads/2023/06/13-CORDOBA_24.02.2023.pdf)*
 
-### 3.2. Temperatura promedio por región climática. 
+## 3.2. Temperatura promedio por región climática. 
 
 -   En las regiones del Sinú, San Jorge, Bajo Nechí y Urabá, la temperatura máxima se sitúa entre 34,6 °C y 35,1 °C, la temperatura media varía entre 27,4 °C y 28 °C, y la mínima oscila entre 21,1 °C y 21,8 °C.
 
 -   En la región del Bajo Magdalena, los valores son similares; sin embargo, se observan variaciones más marcadas en la temperatura mínima, que puede descender hasta los 20,7 °C en ciertos periodos. 
 
-### 3.3. Precipitación acumulada.
+## 3.3. Precipitación acumulada.
 
 Las lluvias en las regiones del Bajo Magdalena, es decir, en el Sinú, en el San Jorge, en Bajo Nechí y el Urabá tienen un clima con una sola temporada de lluvias al año. Las precipitaciones más fuertes se presentan entre mayo y octubre, con el pico más alto en agosto para el Bajo Magdalena y entre junio y julio para las otras regiones.
 
 En cambio, la temporada seca ocurre en los primeros meses del año y al final de diciembre, siendo enero y diciembre los meses con menos lluvias. La cuenca del río Sinú recibe menos lluvia en comparación con la región del Bajo Magdalena.
 
-### 3.4. Variabilidad climática: en relación con los fenómenos de "el niño" y "la niña", utilizando registros del IDEAM (1975-2020).
+## 3.4. Variabilidad climática: en relación con los fenómenos de "el niño" y "la niña", utilizando registros del IDEAM (1975-2020).
 
 ![](./media/image14.png){width="3.8845089676290465in" height="1.3698589238845145in"}![](./media/image15.png){width="1.2in" height="0.6416666666666667in"}
 
@@ -57,7 +55,7 @@ Estas gráficas de variabilidad climática proyectadas anteriormente, demuestran
 
 Esto demuestra que ambos fenómenos climáticos tienen una fuerte influencia en la distribución de las lluvias en estas regiones, y, por tanto, son factores clave para la gestión del riesgo y la planificación ambiental.
 
-### 3.5. Tercera comunicación de cambio climático del IDEAM.
+## 3.5. Tercera comunicación de cambio climático del IDEAM.
 
 A continuación, se presentan lo indicadores de la tercera comunicación de cambio climático del departamento de Córdoba y un breve análisis de los escenarios de riesgo proyectados a futuro:
 
@@ -111,7 +109,7 @@ En conjunto, los resultados del IDEAM proyectan que Córdoba experimentará un a
 
 La vulnerabilidad estructural, sumada a la baja capacidad de adaptación en sectores rurales, advierte sobre la necesidad urgente de fortalecer la planificación ambiental, la gestión del riesgo y las estrategias de adaptación local, priorizando municipios del litoral y cuenca media del Sinú, donde la presión ecológica y el cambio climático convergen con mayor intensidad.
 
-### 3.6. Cuarta comunicación de cambio climático 
+## 3.6. Cuarta comunicación de cambio climático 
 
 En su reciente actualización, el IDEAM hace referencia al documento Escenarios de Cambio Climático en Colombia (2025), basándose en las bases físicas del Sexto Informe de Evaluación (en adelante, AR6); este hito fue elaborado el 2021 por un Grupo Intergubernamental de Expertos sobre el Cambio Climático (en adelante, IPCC). Este informe presenta los experimentos y las modelaciones generadas en la sexta fase del proyecto de intercomparación de modelos acoplados para los escenarios de cambio climático del territorio nacional (en adelante, CMIP6). El proyecto incluye simulaciones a largo plazo del clima en el siglo XX y proyecciones para el siglo XXI, así como algunas para el siglo XXII desde nuevos escenarios llamados trayectorias socioeconómicas compartidas (en adelante, SSP).
 

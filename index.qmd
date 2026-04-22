@@ -1,12 +1,46 @@
 ---
-title: "Fichas Departamentales de Riesgo"
-title-block-banner: true
+title: "Presentación"
+subtitle: "Ficha departamental de caracterización de escenarios de riesgo: Departamento de Córdoba"
+author:
+  - name: "Unidad Nacional para la Gestión del Riesgo de Desastres"
+    affiliations:
+      - name: "Subdirección para el Conocimiento del Riesgo - UNGRD"
+date: "2026"
 ---
 
-Bienvenidos al portal interactivo de caracterización de escenarios de riesgo de la Unidad Nacional para la Gestión del Riesgo de Desastres.
+::: {.columns}
 
-Seleccione un departamento en el menú lateral para visualizar su ficha técnica detallada, o navegue directamente utilizando los enlaces a continuación.
+::: {.column width="60%"}
+## Presentación
 
-## Departamentos Procesados
+La Ficha Departamental de Caracterización de Escenarios de Riesgo del
+Departamento de Córdoba se constituye en un insumo técnico elaborado
+a partir de la consolidación de información institucional existente, con el
+propósito de fortalecer los procesos de planificación territorial y de gestión
+del riesgo de desastres.
 
-* [Ficha Técnica: Córdoba](fichas/cordoba/index.qmd)
+Este documento está dirigido a tomadores de decisión —alcaldes,
+gobernadores, coordinadores departamentales y municipales de gestión
+del riesgo de desastres—, así como a la población académica y a los
+profesionales de apoyo de las administraciones públicas, quienes requieren
+información veraz, clara y actualizada para orientar acciones preventivas y
+de reducción del riesgo en el territorio.
+
+La ficha íntegra, mediante gráficas, mapas e infografías, los principales
+elementos relacionados con las determinantes ambientales, socioeconómicas
+y las amenazas de origen natural, socio-natural y tecnológico (NaTech), que
+inciden en la seguridad y el bienestar de la población. De esta manera, se
+configura como una herramienta estratégica para la toma de decisiones
+fundamentadas, la gestión prospectiva y correctiva del riesgo, y la
+construcción de territorios más seguros, sostenibles y resilientes.
+:::
+
+::: {.column width="5%"}
+<!-- Espacio entre columnas -->
+:::
+
+::: {.column width="35%"}
+![](images/portada-cordoba.jpg){fig-align="center" width="100%"}
+:::
+
+:::
