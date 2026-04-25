@@ -10,16 +10,13 @@ date: "2026"
 
 # 2. CARACTERIZACIÓN TERRITORIAL Y AMBIENTAL
 
-
 ## 2.1. Ubicación y límites.
 
 El departamento de Córdoba está ubicado en la región Caribe de Colombia, es decir Córdoba se ubica al noroccidente del territorio colombiano. Sus límites geográficos son para la zona Este con los departamentos de Sucre y Bolívar, al Sur y Suroeste con Antioquia, y al Oeste con el mar Caribe (ver Figura 1).![](./media/image2.jpg){width="2.097916666666667in" height="3.154166666666667in"}
 
 ![](./media/image3.jpg){width="3.6875in" height="2.888888888888889in"}
 
-######## Figura 1 Mapa Político Administrativo del Departamento de Córdoba. Fuente: IGAC (2002).
-
-*link: [[https://www.todacolombia.com/departamentos-de-colombia/cordoba/municipios-division-politica.html]{.underline}](https://www.todacolombia.com/departamentos-de-colombia/cordoba/municipios-division-politica.html)*
+######## Figura 1 Mapa Político Administrativo del Departamento de Córdoba. Fuente: [IGAC (2002)](https://www.todacolombia.com/departamentos-de-colombia/cordoba/municipios-division-politica.html).
 
 El relieve del departamento de Córdoba se compone de tres zonas principales: las planicies fluviales de los ríos Sinú y San Jorge, que atraviesan municipios como Montería, Lorica y Ayapel. La zona montañosa, que hace parte de la Cordillera Occidental, donde se destacan las serranías de Abibe, Ayapel y San Jerónimo, visibles en municipios como Tierralta y Valencia; y las zonas costero-marinas, localizadas en el norte del departamento, en municipios como San Antero, Moñitos y Los Córdobas. Estas tres unidades definen la geografía y usos del suelo en la región.
 
@@ -31,18 +28,16 @@ El departamento de Córdoba cuenta con una superficie aproximada de 25.020 kiló
 
 El departamento de Córdoba presenta una distribución para 30 municipios, la siguiente tabla mencionada el total de los municipios (Ver Tabla 1):
 
-[]{#_Toc216552971 .anchor}
-
 Tabla 1 Municipios del departamento de Córdoba. Fuente: Autor (2025).
 
-  -------- ------------------- -------- ----------------- -------- --------------- -------- ------------------------- -------- --------------- -------- -------------------------
-  N°   Municipio       N°   Municipio     N°   Municipio   N°   Municipio             N°   Municipio   N°   Municipio
-  1        Montería            6        Ayapel            11       Buenavista      16       Canalete                  21       Cereté          26       Chimá
-  2        Chinú               7        Ciénaga de Oro    12       Cotorra         17       La Apartada               22       Lorica          27       Los Córdobas
-  3        Momil               8        Montelíbano       13       Moñitos         18       Planeta Rica              23       Pueblo Nuevo    28       Puerto Escondido
-  4        Puerto Libertador   9        Purísima          14       Sahagún         19       San Andrés de Sotavento   24       San Antero      29       San Bernardo del Viento
-  5        San Carlos          10       San José de Uré   15       San Pelayo      20       Tierralta                 25       Tuchín          30       Valencia
-  -------- ------------------- -------- ----------------- -------- --------------- -------- ------------------------- -------- --------------- -------- -------------------------
+|  |  |  |  |  |  |  |  |  |  |  |  |
+|------|------|:-----|:----:|-----:|:-----|-----:|------|------|------|------|------|
+| N° Muni | cipio N° Mun | icipio | N° Municipio | N° Mun | icipio | N° M | unicipio N° Municipio |  |  |  |  |
+| 1 | Montería | 6 | Ayapel | 11 | Buenavista | 16 | Canalete | 21 | Cereté | 26 | Chimá |
+| 2 | Chinú | 7 | Ciénaga de Oro | 12 | Cotorra | 17 | La Apartada | 22 | Lorica | 27 | Los Córdobas |
+| 3 | Momil | 8 | Montelíbano | 13 | Moñitos | 18 | Planeta Rica | 23 | Pueblo Nuevo | 28 | Puerto Escondido |
+| 4 | Puerto Libertador | 9 | Purísima | 14 | Sahagún | 19 | San Andrés de Sotavento | 24 | San Antero | 29 | San Bernardo del Viento |
+| 5 | San Carlos | 10 | San José de Uré | 15 | San Pelayo | 20 | Tierralta | 25 | Tuchín | 30 | Valencia |
 
 ## 2.4. Población y demografía
 
@@ -62,14 +57,156 @@ La proyección para el año 2035 es de 2.038.014 habitantes, mostrando un crecim
 
 En cuanto a la distribución por género, se evidencia que las mujeres tienden a vivir más que los hombres, siendo más numerosas en los grupos de edad de 70 años en adelante, lo que corresponde con una mayor esperanza de vida femenina. En lo que respecta a la ubicación de la población, se identifica que tiene porcentajes similares en lo que respecta a la zona rural (48,9%) de la urbana (51,1%).
 
-  ----------------------------------------------------------------------------------- -------------------------------------------------------------------------------------
-  ![](./media/image4.png){width="2.302589676290464in" height="2.583902012248469in"}   ![](./media/image5.png){width="2.133400043744532in" height="2.4917443132108485in"}
-  ![](./media/image6.png){width="2.010886920384952in" height="1.81709208223972in"}    ![](./media/image7.png){width="1.8067639982502188in" height="1.8755336832895888in"}
-  ----------------------------------------------------------------------------------- -------------------------------------------------------------------------------------
+```{ojs}
+//| label: carga-datos-dep
+//| echo: false
+datos_dep_raw = fetch("data/piramide_dep.json").then(r => r.json())
+```
 
-[]{#_Toc216554590 .anchor}Figura 2 Distribución demográfica del departamento de Córdoba.
-FUENTE: Tomado de la proyección DANE (2024), pg. 1 y 2. *
-*
+```{ojs}
+//| echo: false
+departamentos_lista = [...new Set(datos_dep_raw.map(d => d.d))].sort()
+
+viewof depto_sel = Inputs.select(departamentos_lista, {
+  label: "Departamento:",
+  value: "Córdoba"
+})
+```
+
+```{ojs}
+//| echo: false
+viewof año_dep = {
+  let year = 2024;
+  let playing = false;
+  let interval = null;
+  let speed = 600;
+
+  const speeds = { "1x": 600, "1.5x": 400, "2x": 300, "4x": 150 };
+
+  const container = html`<div style="display:flex;flex-wrap:wrap;align-items:center;gap:10px;margin:6px 0">
+    <label style="font-size:13px;font-weight:600;color:#333">Año:</label>
+    <button id="playbtn" style="
+      padding:5px 16px;border-radius:4px;cursor:pointer;
+      background:#3a7abf;color:white;border:none;font-size:13px;font-weight:600">
+      ▶ Play
+    </button>
+    <span id="yearlbl" style="font-weight:700;font-size:16px;min-width:44px;color:#222">${year}</span>
+    <input id="slider" type="range" min="2018" max="2050" step="1" value="${year}"
+      style="width:220px;accent-color:#3a7abf">
+    <span style="font-size:12px;color:#888">2018 – 2050</span>
+    <div id="speedbtns" style="display:flex;gap:4px;margin-left:6px">
+      ${Object.keys(speeds).map(s => `<button class="spdbtn" data-spd="${s}" style="
+        padding:3px 10px;border-radius:4px;cursor:pointer;font-size:12px;font-weight:600;
+        background:${s === '1x' ? '#3a7abf' : '#e0e0e0'};
+        color:${s === '1x' ? 'white' : '#444'};border:none">${s}</button>`).join('')}
+    </div>
+  </div>`;
+
+  const btn    = container.querySelector('#playbtn');
+  const slider = container.querySelector('#slider');
+  const lbl    = container.querySelector('#yearlbl');
+  const spdBtns = container.querySelectorAll('.spdbtn');
+
+  function update(y) {
+    year = y;
+    slider.value = y;
+    lbl.textContent = y;
+    container.value = y;
+    container.dispatchEvent(new CustomEvent('input'));
+  }
+
+  function restartInterval() {
+    clearInterval(interval);
+    if (playing) interval = setInterval(() => update(year >= 2050 ? 2018 : year + 1), speed);
+  }
+
+  btn.addEventListener('click', () => {
+    playing = !playing;
+    btn.textContent = playing ? '⏸ Pausa' : '▶ Play';
+    btn.style.background = playing ? '#c0392b' : '#3a7abf';
+    restartInterval();
+  });
+
+  slider.addEventListener('input', () => update(+slider.value));
+
+  spdBtns.forEach(b => {
+    b.addEventListener('click', () => {
+      speed = speeds[b.dataset.spd];
+      spdBtns.forEach(x => {
+        x.style.background = '#e0e0e0';
+        x.style.color = '#444';
+      });
+      b.style.background = '#3a7abf';
+      b.style.color = 'white';
+      restartInterval();
+    });
+  });
+
+  container.value = year;
+  return container;
+}
+```
+
+```{ojs}
+//| echo: false
+viewof area_dep = Inputs.select(["Total", "Cabecera Municipal", "Centros Poblados y Rural Disperso"], {
+  label: "Área geográfica:"
+})
+```
+
+```{ojs}
+//| echo: false
+orden_dep = ["0 - 4","5 - 9","10 - 14","15 - 19","20 - 24","25 - 29",
+             "30 - 34","35 - 39","40 - 44","45 - 49","50 - 54","55 - 59",
+             "60 - 64","65 - 69","70 - 74","75 - 79","80 +"]
+
+datos_dep_fil = datos_dep_raw
+  .filter(d => d.d === depto_sel && d.a === año_dep && d.ar === area_dep)
+  .sort((a, b) => a.o - b.o)
+
+total_dep = datos_dep_fil.length > 0 ? datos_dep_fil[0].t : 0
+```
+
+```{ojs}
+//| echo: false
+Plot.plot({
+  width: 560,
+  height: 480,
+  marginLeft: 70,
+  marginRight: 10,
+  marginBottom: 60,
+  style: { fontSize: "12px" },
+  x: {
+    tickFormat: d => `${Math.abs(d).toFixed(1)}`,
+    label: `Población en ${año_dep} (%)  (Total: ${total_dep.toLocaleString('de-DE')})`,
+    labelOffset: 50,
+    domain: [-5, 5],
+    grid: true
+  },
+  y: {
+    label: "Rangos de edad",
+    domain: orden_dep
+  },
+  color: {
+    domain: ["Hombres", "Mujeres"],
+    range: ["#87CEEB", "#FFE066"],
+    legend: true
+  },
+  marks: [
+    Plot.barX(
+      datos_dep_fil.flatMap(d => [
+        { grupo: d.g, sexo: "Hombres", pct: -(d.h / total_dep) * 100 },
+        { grupo: d.g, sexo: "Mujeres", pct:  (d.m / total_dep) * 100 }
+      ]),
+      { x: "pct", y: "grupo", fill: "sexo", tip: true }
+    ),
+    Plot.ruleX([0], { stroke: "#555", strokeWidth: 1.2 })
+  ]
+})
+```
+
+
+Figura 2 Distribución demográfica del departamento de Córdoba. FUENTE: Tomado de la proyección DANE (2024), pg. 1 y 2.
 
 LINK: [[https://terridata.blob.core.windows.net/fichas/Ficha_23000.pdf]{.underline}](https://terridata.blob.core.windows.net/fichas/Ficha_23000.pdf)  
 
@@ -101,40 +238,40 @@ A.  Plan de desarrollo departamental.
 
 B.  Planes municipales de ordenamiento territorial.
 
-[]{#_Toc216552972 .anchor}Tabla 2 Instrumentos de ordenamiento territorial municipal.
+Tabla 2 Instrumentos de ordenamiento territorial municipal.
 
-  Municipio             Instrumento (POT/PBOT/EOT)   Año de vigencia                          Estado (vigente/desactualizado)
-  ------------------------- -------------------------------- -------------------------------------------- -------------------------------------
-  Montería                  POT                              2021                                         Actualizado
-  Ayapel                    PBOT                             2015 (ajuste) / 2014-2029 (PBOT publicado)   Actualizado
-  Buenavista                EOT                              2016 - 2027                                  Actualizado
-  Canalete                  EOT                              2001 - 2010                                  Desactualizado
-  Cereté                    PBOT                             2012 - 2023                                  Actualizado
-  Chimá                     EOT                              2003 - 2012                                  Desactualizado
-  Chinú                     PBOT                             2000 - 2010                                  Desactualizado
-  Ciénaga de Oro            PBOT                             2019                                         Desactualizado
-  Cotorra                   EOT                              2004 - 2012                                  Desactualizado
-  La Apartada               EOT                              2017                                         Desactualizado
-  Lorica                    POT                              2012 - 2015                                  Desactualizado
-  Los Córdobas              EOT                              2014 - 2027                                  Actualizado
-  Momil                     EOT                              2001                                         Desactualizado
-  Montelíbano               PBOT                             2019                                         Actualizado
-  Moñitos                   PBOT                             2019 - 2031                                  Actualizado
-  Planeta Rica              PBOT                             2017                                         Desactualizado
-  Pueblo Nuevo              PBOT                             2017 - 2031                                  Actualizado
-  Puerto Escondido          PBOT                             2016 - 2027                                  Actualizado
-  Puerto Libertador         EOT                              2014 - 2019                                  Desactualizado
-  Purísima                  EOT                              2020 - 2023                                  Desactualizado
-  Sahagún                   POT                              2001 - 2014                                  Desactualizado
-  San Andrés de Sotavento   PBOT                             2001 - 2010                                  Desactualizado
-  San Antero                PBOT                             2007                                         Desactualizado
-  San Bernardo del Viento   PBOT                             2002                                         Desactualizado
-  San Carlos                EOT                              2005 - 2019                                  Desactualizado
-  San José de Uré           EOT                              2016 - 2019                                  Desactualizado
-  San Pelayo                PBOT                             2000 - 2009                                  Desactualizado
-  Tierralta                 PBOT                             2011 - 2023                                  Desactualizado
-  Tuchín                    PBOT                             2015 - 2027                                  Actualizado
-  Valencia                  PBOT                             2017                                         Desactualizado
+| Municipio Inst | rumento (POT/PBOT/EOT) Año de v | igencia Estado (vige | nte/desactualizado) |
+|------------------|------------------|------------------|:-----------------|
+| Montería | POT | 2021 | Actualizado |
+| Ayapel | PBOT | 2015 (ajuste) / 2014-2029 (PBOT publicado) | Actualizado |
+| Buenavista | EOT | 2016 - 2027 | Actualizado |
+| Canalete | EOT | 2001 - 2010 | Desactualizado |
+| Cereté | PBOT | 2012 - 2023 | Actualizado |
+| Chimá | EOT | 2003 - 2012 | Desactualizado |
+| Chinú | PBOT | 2000 - 2010 | Desactualizado |
+| Ciénaga de Oro | PBOT | 2019 | Desactualizado |
+| Cotorra | EOT | 2004 - 2012 | Desactualizado |
+| La Apartada | EOT | 2017 | Desactualizado |
+| Lorica | POT | 2012 - 2015 | Desactualizado |
+| Los Córdobas | EOT | 2014 - 2027 | Actualizado |
+| Momil | EOT | 2001 | Desactualizado |
+| Montelíbano | PBOT | 2019 | Actualizado |
+| Moñitos | PBOT | 2019 - 2031 | Actualizado |
+| Planeta Rica | PBOT | 2017 | Desactualizado |
+| Pueblo Nuevo | PBOT | 2017 - 2031 | Actualizado |
+| Puerto Escondido | PBOT | 2016 - 2027 | Actualizado |
+| Puerto Libertador | EOT | 2014 - 2019 | Desactualizado |
+| Purísima | EOT | 2020 - 2023 | Desactualizado |
+| Sahagún | POT | 2001 - 2014 | Desactualizado |
+| San Andrés de Sotavento | PBOT | 2001 - 2010 | Desactualizado |
+| San Antero | PBOT | 2007 | Desactualizado |
+| San Bernardo del Viento | PBOT | 2002 | Desactualizado |
+| San Carlos | EOT | 2005 - 2019 | Desactualizado |
+| San José de Uré | EOT | 2016 - 2019 | Desactualizado |
+| San Pelayo | PBOT | 2000 - 2009 | Desactualizado |
+| Tierralta | PBOT | 2011 - 2023 | Desactualizado |
+| Tuchín | PBOT | 2015 - 2027 | Actualizado |
+| Valencia | PBOT | 2017 | Desactualizado |
 
 C.  Planes Ambientales.
 
@@ -148,16 +285,16 @@ C.  Planes Ambientales.
 
 El recurso hídrico dentro de la jurisdicción de la Corporación, se encuentran definidas por el Instituto de Hidrología, Meteorología y Estudios Ambientales - IDEAM, siete (7) cuencas hidrográficas conformadas por: Rio Alto Sinú, Rio Medio-Bajo Sinú, Rio Alto San Jorge, Rio Bajo San Jorge, Rio Canalete- Rio Los Córdobas, Rio Mangle y otros arroyos directos del Caribe y Arroyos directos Golfo de Morrosquillo, éste último sólo una pequeña porción del área geográfica está dentro del departamento de Córdoba.
 
-[]{#_Toc216552973 .anchor}Tabla 3 Instrumentos POMCA en el departamento. Fuente: CVS (2024)
+Tabla 3 Instrumentos POMCA en el departamento. Fuente: CVS (2024)
 
-  ----------------------------------------------------- ------------ --------------- ----------------- -------------------------------------------------------------------------------------------------------------
-  Nombre POMCA                                      Código   Hectáreas   Fase          LINK
-  Rio Canalete, Los Cordobas y otros Arroyos - NSS      1204-1       119.138         Formulación       <https://cvs.gov.co/convocatoria-observaciones-pomca-rio-canalete-rio-los-cordobas-y-otros-arroyos-1204-1/>
-  Rio Mangle y otros arroyos directos al Caribe - NSS   1204-02      62.781          No identificada   
-  Rio Alto Sinú                                         1301         376.410         Formulación       <https://www.anla.gov.co/documentos/biblioteca/27-01-2021-anla-rash-rio-sinu-alto-san-jorge.pdf>
-  Río Medio y Bajo Sinú - 2SZH                          1303         941.476         Formulación       <https://www.anla.gov.co/documentos/biblioteca/27-01-2021-anla-rash-rio-sinu-alto-san-jorge.pdf>
-  Rio San Jorge                                         2502-01      994.778         Formulación       <https://www.corpomojana.gov.co/download/pomca/pomca-documento-2502-01.pdf>
-  ----------------------------------------------------- ------------ --------------- ----------------- -------------------------------------------------------------------------------------------------------------
+|  |  |  |  |  |
+|---------------|---------------|:--------------|:-------------:|---------------|
+| Nombre POMCA Códi | go Hectárea | s Fase | LINK |  |
+| Rio Canalete, Los Cordobas y otros Arroyos - NSS | 1204-1 | 119.138 | Formulación | <https://cvs.gov.co/convocatoria-observaciones-pomca-rio-canalete-rio-los-cordobas-y-otros-arroyos-1204-1/> |
+| Rio Mangle y otros arroyos directos al Caribe - NSS | 1204-02 | 62.781 | No identificada |  |
+| Rio Alto Sinú | 1301 | 376.410 | Formulación | <https://www.anla.gov.co/documentos/biblioteca/27-01-2021-anla-rash-rio-sinu-alto-san-jorge.pdf> |
+| Río Medio y Bajo Sinú - 2SZH | 1303 | 941.476 | Formulación | <https://www.anla.gov.co/documentos/biblioteca/27-01-2021-anla-rash-rio-sinu-alto-san-jorge.pdf> |
+| Rio San Jorge | 2502-01 | 994.778 | Formulación | <https://www.corpomojana.gov.co/download/pomca/pomca-documento-2502-01.pdf> |
 
 -   POMIUAC/Planes de Ordenación y Manejo Integrado de la Unidad Ambiental Costera Unidad Ambiental Costera Estuarina del Río Sinú y el Golfo de Morrosquillo.
 
@@ -165,26 +302,26 @@ La costa cordobesa se extiende desde la punta de Arboletes en límites con Antio
 
 Estos espacios con características únicas, dadas sus condiciones de intercambio de materia y energía entre la tierra, atmósfera y mar, que propician el desarrollo de ecosistemas y hábitats costeros (deltas, estuarios, lagunas, manglares, playas, pantanos de agua dulce, ríos y bosque costeros); que proporcionan valiosos productos y servicios para cubrir las necesidades económicas y de subsistencia para comunidades locales y externas (Gilman et al., 2008).
 
-[]{#_Toc216552974 .anchor}Tabla 4 Instrumento de Adaptación al Cambio Climático. Fuente: Autor (2025).
+Tabla 4 Instrumento de Adaptación al Cambio Climático. Fuente: Autor (2025).
 
-  ------------------------------------------------------------------------------------------------- -------------------------- -------------------------- ---------------------------------------------------------------------------------
-  INSTRUMENTO                                                                                   FECHA DE ELABORACIÓN   ÚLTIMA ACTUALIZACIÓN   LINK
-  Plan Departamental de Adaptación al Cambio Climático para el Departamento de Córdoba 2016-2027.   2016                       2016                       <https://aquadocs.org/bitstream/handle/1834/6633/Cartilla-UAC_Morrosquillo.pdf>
-  ------------------------------------------------------------------------------------------------- -------------------------- -------------------------- ---------------------------------------------------------------------------------
+|  |  |  |  |
+|------------------|------------------|:-----------------|------------------|
+| INSTRUMENTO FECH | A DE ELABORACIÓN ÚLTIMA A | CTUALIZACIÓN LINK |  |
+| Plan Departamental de Adaptación al Cambio Climático para el Departamento de Córdoba 2016-2027. | 2016 | 2016 | <https://aquadocs.org/bitstream/handle/1834/6633/Cartilla-UAC_Morrosquillo.pdf> |
 
 D.  Instrumentos de Gestión del Riesgo de desastres.
 
-[]{#_Toc216552975 .anchor}Tabla 5 Instrumentos departamentales de planificación en Gestión del Riesgo de Desastres.
+Tabla 5 Instrumentos departamentales de planificación en Gestión del Riesgo de Desastres.
 
-  -------------------------------------------------------------------- -------------------------- -------------------------- -----------------------------------------------------------------------------------------------------------
-  TIPO DE INSTRUMENTO                                              FECHA DE ELABORACIÓN   ÚLTIMA ACTUALIZACIÓN   LINK
-  Plan Departamental para la Gestión del Riesgo de Desastre. (PDGRD)   2012                       2022                       <https://www.cordoba.gov.co/loader.php?lServicio=Tools2&lTipo=descargas&lFuncion=visorpdf&id=28471&pdf=1>
-  Estrategia Departamental de Respuesta (EDRE)                         2012                       2024                       <https://www.cordoba.gov.co/loader.php?lServicio=Tools2&lTipo=descargas&lFuncion=visorpdf&id=28470&pdf=1>
-  -------------------------------------------------------------------- -------------------------- -------------------------- -----------------------------------------------------------------------------------------------------------
+|  |  |  |  |
+|------------------|------------------|:-----------------|------------------|
+| TIPO DE INSTRUMENTO FECH | A DE ELABORACIÓN ÚLTIMA A | CTUALIZACIÓN LINK |  |
+| Plan Departamental para la Gestión del Riesgo de Desastre. (PDGRD) | 2012 | 2022 | <https://www.cordoba.gov.co/loader.php?lServicio=Tools2&lTipo=descargas&lFuncion=visorpdf&id=28471&pdf=1> |
+| Estrategia Departamental de Respuesta (EDRE) | 2012 | 2024 | <https://www.cordoba.gov.co/loader.php?lServicio=Tools2&lTipo=descargas&lFuncion=visorpdf&id=28470&pdf=1> |
 
 ## 2.7. Caracterización física del territorio.
 
-### 2.7.0. Características Geológicas 
+### 2.7.0. Características Geológicas
 
 Para el componente geológico del departamento fue necesario la revisión de información disponible en la entidad técnica competente, es decir, el Servicio Geológico Colombiano (SGC) El Servicio Geológico Colombiano (SGC) ha desarrollado un geoportal para brindar la información geo científica del país, por ejemplo, con la cartografía geológica de Colombia a escala 1:1'500.000 (Ver la Figura 4), y en una escala más detallada, por ejemplo, la plancha geológica 62 -- La Ye, la cual abarca un área aproximada de 1.800 kilómetros cuadrados; esta zona se encuentra ubicada en la región de frontera entre los departamentos de Córdoba y Sucre.
 
@@ -206,7 +343,7 @@ Estas unidades geológicas incluyen rocas volcánicas, sedimentarias, ígneas y 
 
 Al sur y suroccidente de Córdoba (frontera con Antioquia y el municipio de Tierra Alta), se observa un predominio de colores verdes, azules y marrones oscuros, que corresponden a rocas antiguas y montañosas. Mientras que, al norte y noreste (como Montería, Lorica, Sahagún), hay colores más uniformes, como los beige y grises claros, lo que indica zonas más planas y jóvenes, como las llanuras costeras y valles, existen deposición de sedimentos del río San Jorge y sus tributarios, además de los depósitos asociados al sistema de ciénagas de Ayapel y sus alrededores. 
 
-### 2.7.1. Características geomorfológicas generales. 
+### 2.7.1. Características geomorfológicas generales.
 
 El departamento de Córdoba forma parte de la Gran Llanura del Caribe y presenta dos grandes zonas topográficas o tipos de paisaje:
 
@@ -228,14 +365,14 @@ Es fundamental conocer cómo se usa el suelo en el departamento de Córdoba, ya 
 
 A continuación, se muestra la distribución del uso del suelo en Córdoba:
 
-  ------------------------------------------- ----------------------
-  Uso de Suelo                            Superficie (Has)
-  Frontera agrícola nacional                  1.874.552
-  Bosque naturales y áreas no agropecuarias   155.189
-  Exclusiones legales                         470.118
-  ------------------------------------------- ----------------------
+|                                           |              |
+|-------------------------------------------|:-------------|
+| Uso de Suelo Supe                         | rficie (Has) |
+| Frontera agrícola nacional                | 1.874.552    |
+| Bosque naturales y áreas no agropecuarias | 155.189      |
+| Exclusiones legales                       | 470.118      |
 
-[]{#_Toc216552976 .anchor}Tabla 6. Tipos de uso de suelo en el Departamento de Córdoba. Fuente: CVS (2023)
+Tabla 6. Tipos de uso de suelo en el Departamento de Córdoba. Fuente: CVS (2023)
 
 ### 2.7.3. Características de la Geología Económica.
 
@@ -271,5 +408,4 @@ En un inicio, las primeras actividades de explotación de gas natural permitiero
 
 ######## Figura 7 Mapa de las redes de gasoductos en la costa caribe. FUENTE: Promigas (2025)
 
-*LINK: [[https://www.promigas.com/Beo/Paginas/ProcedimientosOperacionales/Mapa-del-gasoducto.aspx]{.underline}](https://www.promigas.com/Beo/Paginas/ProcedimientosOperacionales/Mapa-del-gasoducto.aspx)   *
-
+*LINK: [[https://www.promigas.com/Beo/Paginas/ProcedimientosOperacionales/Mapa-del-gasoducto.aspx]{.underline}](https://www.promigas.com/Beo/Paginas/ProcedimientosOperacionales/Mapa-del-gasoducto.aspx)*

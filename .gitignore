@@ -2,3 +2,9 @@
 _book/
 *.Identifier
 estructura.txt
+
+**/*.quarto_ipynb
+
+fuentes/
+.DS_Store
+**/.DS_Store
