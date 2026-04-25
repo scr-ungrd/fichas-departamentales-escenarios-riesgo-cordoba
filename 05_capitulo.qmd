@@ -22,8 +22,7 @@ Desde la adopción de la Ley 1523, Colombia ha experimentado un cambio de perspe
 La gráfica circular muestra que la inundación representa la amenaza más frecuente, con un 51,2%, seguida por los incendios forestales con un 20,5%. Otras amenazas relevantes son los vendavales (11,2%) y los incendios estructurales (aprox. 5%). Las amenazas como sequía, deslizamientos, avenidas torrenciales, lluvias y desabastecimiento de agua tienen una participación menor, pero significativa. Esta distribución sugiere que la gestión del riesgo debe priorizar medidas frente a inundaciones y fenómenos climáticos extremos.
 
 ```{python}
-#| label: fig-cordoba-eventos
-#| fig-cap: "Tipo de Evento - Departamento de Córdoba (1938–2024)"
+#| label: cordoba-eventos
 #| warning: false
 #| message: false
 #| echo: false
