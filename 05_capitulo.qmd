@@ -1,13 +1,13 @@
 
 # 5. IDENTIFICACIÓN DE ESCENARIOS DE RIESGO
 
-## 5.1. Antecedentes históricos.
+## 5.1. Antecedentes históricos
 
 Desde la adopción de la Ley 1523, Colombia ha experimentado un cambio de perspectiva en cuanto a la forma de abordar el riesgo. Esto es, pasar de un enfoque de Gestión de Desastres a una visión prospectiva de Gestión del Riesgo de Desastres (Suárez-Paba, Cruz, & Muñoz, 2020). Esto ha implicado transformaciones que involucran no sólo a las entidades del sector público sino también a aquellas del sector privado y al público en general.
 
 ### 
 
-### 5.1.1. Cifras de emergencias reportadas por el departamento durante 1938-2024.
+### 5.1.1. Cifras de emergencias reportadas por el departamento durante 1938-2024
 
 La gráfica circular muestra que la inundación representa la amenaza más frecuente, con un 51,2%, seguida por los incendios forestales con un 20,5%. Otras amenazas relevantes son los vendavales (11,2%) y los incendios estructurales (aprox. 5%). Las amenazas como sequía, deslizamientos, avenidas torrenciales, lluvias y desabastecimiento de agua tienen una participación menor, pero significativa. Esta distribución sugiere que la gestión del riesgo debe priorizar medidas frente a inundaciones y fenómenos climáticos extremos.
 
@@ -126,7 +126,7 @@ Según el visor de consolidado de emergencias se reportaron 2.088 eventos durant
 
 ######## Figura 20 Reporte de afectaciones por eventos presentados en el departamento de Córdoba (1938-2024). Fuente: UNGRD (2024)
 
-### 5.1.2. Análisis de los municipios con más reportes de emergencias (1938-2023).
+### 5.1.2. Análisis de los municipios con más reportes de emergencias (1938-2023)
 
 ![](./media/image29.png){width="3.6992793088363953in" height="3.143844050743657in"}
 
@@ -134,11 +134,11 @@ Según el visor de consolidado de emergencias se reportaron 2.088 eventos durant
 
 La distribución porcentual de eventos reportados por los municipios de Córdoba es liderada por Montería (15%) y Lorica (9.8%) como los municipios con más eventos. Después, se destaca Cereté (9.1%) y Tierralta (6.7%), mientras que municipios como Montelíbano, San Pelayo y otros, tienen reportes de eventos menores al 8%.
 
-## 5.2. Caracterización de los escenarios de riesgo según el PDGRD.
+## 5.2. Caracterización de los escenarios de riesgo según el PDGRD
 
 ### 
 
-### 5.2.1. Priorización de amenazas.
+### 5.2.1. Priorización de amenazas
 
 []{#_Toc216552982 .anchor}Tabla 12 Eventos priorizados en el Departamento de Córdoba. Fuente: PDGRD (2023).
 
@@ -153,9 +153,9 @@ La distribución porcentual de eventos reportados por los municipios de Córdoba
   7   Diapirismo de Lodo                             Canalete
   --- ---------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 5.2.2. Amenazas origen natural.
+### 5.2.2. Amenazas origen natural
 
-#### 5.2.2.1 Vendavales.
+#### 5.2.2.1 Vendavales
 
 Los vendavales en el departamento de Córdoba representan una amenaza frecuente, caracterizada por vientos fuertes y destructivos que alcanzan velocidades de hasta 80 km/h en cortos periodos de tiempo, lo que genera afectaciones significativas en la infraestructura vital, industrial, redes de servicios públicos y sectores agropecuarios.
 
@@ -171,7 +171,7 @@ Históricamente, los municipios más afectados por vendavales en Córdoba son aq
 
 Este mapa muestra los municipios del departamento de Córdoba afectados históricamente por vendavales, marcados en color rojo. La mayor parte del territorio, especialmente en el centro, sur y suroccidente, ha sido impactada por estos fenómenos climáticos. Municipios como Tierralta, Montelíbano, Puerto Libertador y Montería presentan alta recurrencia. Las zonas del norte y oriente muestran menor afectación, aunque no están exentas. Esta información es clave para fortalecer alertas tempranas y mejorar la infraestructura ante eventos de vientos fuertes.
 
-#### 5.2.2.2. Sequías.
+#### 5.2.2.2. Sequías
 
 La sequía en el departamento de Córdoba se ha convertido en un fenómeno recurrente con graves implicaciones ambientales, económicas y sociales. De acuerdo con la UNGRD, la sequía se define como la escasez temporal de agua en una región en comparación con las condiciones habituales, fenómeno que en Colombia está influenciado por el cambio climático y eventos macroclimáticos como El Niño. Este último ha generado impactos severos en el departamento, provocando racionamientos eléctricos, disminución de los caudales de ríos y cuerpos de agua, incendios forestales y afectaciones a la salud pública (CVS, 2017). 
 
@@ -187,9 +187,9 @@ Este mapa muestra los municipios de Córdoba que han sido declarados en calamida
 
 Prácticas inadecuadas, como quemas agrícolas y fogatas para ampliar la frontera ganadera y agricola, aumentan la vulnerabilidad de los bosques, incrementando el riesgo de pérdida de cobertura vegetal. La sequía en Córdoba es, por tanto, un fenómeno multidimensional que requiere estrategias integrales de prevención y mitigación para reducir sus impactos en los distintos sectores afectados.
 
-### 5.2.3. Amenazas de origen socio natural.
+### 5.2.3. Amenazas de origen socio natural
 
-#### 5.2.3.1. Inundaciones.
+#### 5.2.3.1. Inundaciones
 
 Las inundaciones en el departamento del Córdoba son eventos recurrentes influenciados por lluvias intensas y fenómenos climáticos como "El Niño" y "La Niña", lo que genera desbordamientos de ríos y graves afectaciones a la población, infraestructura y sector agropecuario (IDEAM, 2020).  Factores como la urbanización, la expansión agrícola y la construcción de infraestructura han modificado el comportamiento natural de las cuencas, aumentando la vulnerabilidad de los territorios (UNGRD, 2021).  
 
@@ -213,7 +213,7 @@ Respecto a información disponible en materia de inundaciones para el Departamen
 
 -   Montelíbano: Amenaza, Profundidad y Velocidad de Flujo
 
-#### 5.2.3.2. Avenidas torrenciales.
+#### 5.2.3.2. Avenidas torrenciales
 
 Cerca del 80% de la población del país reside en zonas aledañas al Sistema Montañoso de los Andes, lo cual genera condiciones de susceptibilidad muy altas debido a la topografía, a las condiciones geológicas pues el sistema montañoso está constituido por formaciones relativamente jóvenes y en evolución, además de los altos volúmenes de precipitación que se presentan anualmente.
 
@@ -230,7 +230,7 @@ La conjunción de las características mencionadas, permiten la formación de fl
 
 Recientemente, el Servicio Geológico Colombiano (SGC, 2021) construyó la "Guía metodológica para zonificación de amenaza por avenidas torrenciales" en el cual se proporcionan lineamientos técnicos para la evaluación de amenaza por avenidas torrenciales, los cuales permiten disminuir la subjetividad a la hora de abordar el problema, y sirven, además, como herramienta para la unificación de conceptos y elaboración de estudios uniformes.
 
-#### 5.2.3.3. Movimientos en masa.
+#### 5.2.3.3. Movimientos en masa
 
 Los movimientos en masa en el departamento de Córdoba corresponden a deslizamientos, desprendimientos y flujos de suelo y rocas causados por la acción de la gravedad (Cruden, 1991).
 
@@ -244,9 +244,9 @@ Los municipios con mayor afectación se encuentran en la subregión de San Jorge
 
 Según el análisis de amenaza por movimiento en masa para el departamento de Córdoba, el sur de Córdoba, es decir, las subregiones del Alto Sinú y San Jorge presentan las zonas con mayor riesgo, con amenazas alta y media debido a su relieve montañoso y la influencia hídrica del Parque Nacional Natural Paramillo. El resto del departamento presenta una amenaza baja, salvo algunos sectores de Montería, San Carlos, Canalete y Los Córdobas, donde la amenaza es moderada. La expansión de asentamientos en zonas de alta susceptibilidad y la falta de planificación territorial continúan siendo factores determinantes en la vulnerabilidad de la población ante estos eventos.
 
-### 5.2.4. Amenazas de origen geológico.
+### 5.2.4. Amenazas de origen geológico
 
-#### 5.2.4.1. Escenario de amenaza por Sismo.
+#### 5.2.4.1. Escenario de amenaza por Sismo
 
 Los municipios que deben tener microzonificación sísmica en el departamento de Córdoba según las estadísticas del año 2021, son: 
 
@@ -274,7 +274,7 @@ El mapa de la Figura 22 muestra la Pérdida Anual Esperada (PAE) por sismo a niv
 
 En contraste, los municipios del sur de Córdoba y algunas zonas costeras tienen menores pérdidas esperadas, oscilando entre 1.000 y 10.000 millones de pesos, posiblemente debido a su menor densidad poblacional y condiciones geológicas más favorables.
 
-#### 5.2.4.2. Escenario de amenaza por Tsunami.
+#### 5.2.4.2. Escenario de amenaza por Tsunami
 
 Los municipios que presentan escenario de amenaza son: Los Córdobas, Puerto Escondido, Moñitos, San Bernardo del Viento y San Antero.
 
@@ -294,7 +294,7 @@ El Visor Atlas del riesgo de Colombia presenta mapas con pérdida anual esperada
 
 Las tonalidades más oscuras indican mayores pérdidas económicas, con valores que superan los 2.500 millones de pesos en zonas costeras del norte. Esto sugiere una mayor exposición al riesgo de tsunamis en estos municipios, probablemente debido a su cercanía al mar y su dependencia de actividades económicas costeras. En contraste, los municipios del interior, como Montería y el sur de Córdoba, presentan pérdidas esperadas significativamente menores, inferiores a 2,5 millones de pesos, debido a su menor exposición a este fenómeno.
 
-#### 5.2.4.3. Escenario de amenaza por Erosión fluvial.
+#### 5.2.4.3. Escenario de amenaza por Erosión fluvial
 
 La erosión fluvial en el departamento de Córdoba es un fenómeno que afecta gravemente la estabilidad de los bordes de los ríos, causando el desprendimiento de partículas del suelo y la degradación de las áreas ribereñas (CVS, 2021). 
 
@@ -336,7 +336,7 @@ Los principales puntos críticos incluyen localidades como Santander de la Cruz,
 
 La continua pérdida de terreno evidencia la necesidad de implementar medidas de mitigación efectivas que integren la protección ambiental y el desarrollo sostenible, pues sin acciones concretas, esta problemática seguirá intensificando en el futuro (Min Ambiente, 2017).
 
-#### 5.2.4.5. Escenario de amenaza por Volcanismo de lodo.
+#### 5.2.4.5. Escenario de amenaza por Volcanismo de lodo
 
 El volcanismo de lodo en el departamento de Córdoba es un fenómeno geológico derivado de la movilización de material arcilloso y gases a alta presión a través de fracturas, lo que genera geoformas como domos y colinas. Este proceso está influenciado por la interacción tectónica de las placas Nazca, Caribe y Suraméricana y puede activarse por factores como la compresión tectónica, el alto contenido de gases y la diferencia de densidad entre los materiales confinados (Carvajal, 2010; Carvajal, 2017). 
 
@@ -354,7 +354,7 @@ Este mapa muestra los municipios del departamento de Córdoba donde hay presenci
 
 En la Subregión Costanera, los municipios son altamente susceptibles a la erosión causada por el volcanismo de lodo, afectando la estabilidad del terreno y la infraestructura local PMGR, (2023). En el municipio de Valencia, en la subregión del Alto Sinú, también se registra actividad de diapirismo de lodo en una zona de suelos de origen volcánico, caracterizados por su resistencia a bajas concentraciones de fósforo y su capacidad de tolerar periodos cortos de inundación. Este escenario resalta la necesidad de monitoreo y gestión del riesgo, dado que la actividad volcánica de lodo en Córdoba puede impactar tanto los ecosistemas como las comunidades aledañas.
 
-### 5.2.5. Amenazas antrópicas no intencionales.
+### 5.2.5. Amenazas antrópicas no intencionales
 
 El riesgo tecnológico[^2] en el departamento de Córdoba se relaciona con diversos factores, desde la accidentalidad vial hasta la expansión del sector minero-energético. A pesar de las campañas de prevención, los accidentes de tránsito siguen siendo recurrentes, especialmente en corredores como Sahagún -- Chinú y Montería -- Los Córdobas, donde la imprudencia y el aumento de tráfico en temporadas especiales agravan la situación (Ordenanza 0009, 2020). Paralelamente, el crecimiento del sector minero-energético ha consolidado a Córdoba como un territorio clave para la explotación de níquel, oro, carbón y gas natural, generando oportunidades económicas, pero también desafíos en la gestión ambiental y en la regulación de la minería ilegal (Ordenanza 0009, 2020). 
 
