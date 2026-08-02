@@ -1,23 +1,24 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.37">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Unidad Nacional para la Gestión del Riesgo de Desastres">
-<meta name="dcterms.date" content="2026-01-01">
 
-<title>1. INTRODUCCIÓN – Ficha Córdoba</title>
+<title>1. INTRODUCCIÓN – Ficha departamental de caracterización de escenarios de riesgo: Departamento de Córdoba</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
-code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -37,16 +38,17 @@ ul.task-list li input[type="checkbox"] {
 <meta name="quarto:offset" content="./">
 <link href="./02_capitulo.html" rel="next">
 <link href="./00_legal.html" rel="prev">
+<link href="./images/favicon.png" rel="icon" type="image/png">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-f5563de27c59203049aaca913ec16063.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-049e5dce2bc6751735b05bd32bf421a2.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -61,36 +63,25 @@ ul.task-list li input[type="checkbox"] {
   ],
   "show-item-context": false,
   "language": {
-    "search-no-results-text": "No results",
-    "search-matching-documents-text": "matching documents",
-    "search-copy-link-title": "Copy link to search",
-    "search-hide-matches-text": "Hide additional matches",
-    "search-more-match-text": "more match in this document",
-    "search-more-matches-text": "more matches in this document",
-    "search-clear-button-title": "Clear",
+    "search-no-results-text": "No se han encontrado resultados",
+    "search-matching-documents-text": "documentos encontrados",
+    "search-copy-link-title": "Copiar el enlace en la búsqueda",
+    "search-hide-matches-text": "Ocultar resultados adicionales",
+    "search-more-match-text": "resultado adicional en este documento",
+    "search-more-matches-text": "resultados adicionales en este documento",
+    "search-clear-button-title": "Borrar",
     "search-text-placeholder": "",
-    "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit",
-    "search-label": "Search"
+    "search-detached-cancel-button-title": "Cancelar",
+    "search-submit-button-title": "Enviar",
+    "search-label": "Buscar"
   }
 }</script>
 <style>
-
-      .quarto-title-block .quarto-title-banner h1,
-      .quarto-title-block .quarto-title-banner h2,
-      .quarto-title-block .quarto-title-banner h3,
-      .quarto-title-block .quarto-title-banner h4,
-      .quarto-title-block .quarto-title-banner h5,
-      .quarto-title-block .quarto-title-banner h6
-      {
-        color: white;
-      }
-
-      .quarto-title-block .quarto-title-banner {
-        color: white;
-background-image: url(images/banner_cordoba.png);
-background-size: cover;
-      }
+/* Make only the figure/table label bold, not the entire caption */
+.quarto-float-caption-bottom .quarto-float-caption-prefix,
+.quarto-float-caption-top .quarto-float-caption-prefix {
+  font-weight: bold;
+}
 </style>
 
 
@@ -99,116 +90,87 @@ background-size: cover;
 <body class="nav-sidebar floating quarto-light">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+  <header id="quarto-header" class="headroom fixed-top">
   <nav class="quarto-secondary-nav">
     <div class="container-fluid d-flex">
-      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Alternar barra lateral" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./01_introduccion.html"><span class="chapter-title">1. INTRODUCCIÓN</span></a></li></ol></nav>
-        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./01_introduccion.html"><span class="chapter-title">1. Introducción</span></a></li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Alternar barra lateral" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
-      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
+      <button type="button" class="btn quarto-search-button" aria-label="Buscar" onclick="window.quartoOpenSearch();">
         <i class="bi bi-search"></i>
       </button>
     </div>
   </nav>
 </header>
 <!-- content -->
-<header id="title-block-header" class="quarto-title-block default page-columns page-full">
-  <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-body">
-      <h1 class="title"><span class="chapter-title">1. INTRODUCCIÓN</span></h1>
-            <p class="subtitle lead">Ficha departamental de caracterización de escenarios de riesgo: Departamento de Córdoba</p>
-                      </div>
-  </div>
-    
-  <div class="quarto-title-meta-author">
-    <div class="quarto-title-meta-heading">Author</div>
-    <div class="quarto-title-meta-heading">Affiliation</div>
-    
-      <div class="quarto-title-meta-contents">
-      <p class="author">Unidad Nacional para la Gestión del Riesgo de Desastres </p>
-    </div>
-    <div class="quarto-title-meta-contents">
-          <p class="affiliation">
-              Subdirección para el Conocimiento del Riesgo - UNGRD
-            </p>
-        </div>
-    </div>
-
-  <div class="quarto-title-meta">
-
-        
-      <div>
-      <div class="quarto-title-meta-heading">Published</div>
-      <div class="quarto-title-meta-contents">
-        <p class="date">January 1, 2026</p>
-      </div>
-    </div>
-    
-      
-    </div>
-    
-  
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
-    <div class="pt-lg-2 mt-2 text-left sidebar-header">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header sidebar-header-stacked">
+      <a href="./index.html" class="sidebar-logo-link">
+      <img src="./images/portada-cordoba.jpg" alt="" class="sidebar-logo light-content py-0 d-lg-inline d-none">
+      <img src="./images/portada-cordoba.jpg" alt="" class="sidebar-logo dark-content py-0 d-lg-inline d-none">
+      </a>
     <div class="sidebar-title mb-0 py-0">
-      <a href="./">Ficha Córdoba</a> 
+      <a href="./">Ficha departamental de caracterización de escenarios de riesgo: Departamento de Córdoba</a> 
+        <div class="sidebar-tools-main">
+    <a href="https://github.com/scr-ungrd/fichas-departamentales-escenarios-riesgo-cordoba" title="Ejecutar el código" class="quarto-navigation-tool px-1" aria-label="Ejecutar el código"><i class="bi bi-github"></i></a>
+</div>
     </div>
       </div>
         <div class="mt-2 flex-shrink-0 align-items-center">
         <div class="sidebar-search">
-        <div id="quarto-search" class="" title="Search"></div>
+        <div id="quarto-search" class="" title="Buscar"></div>
         </div>
         </div>
     <div class="sidebar-menu-container"> 
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Presentación</span></a>
+  <a href="./index.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Inicio</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./00_legal.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Información Legal</span></a>
+  <a href="./00_legal.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Página Legal</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./01_introduccion.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">1. INTRODUCCIÓN</span></a>
+  <a href="./01_introduccion.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">1. Introducción</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./02_capitulo.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">2. CARACTERIZACIÓN TERRITORIAL Y AMBIENTAL</span></a>
+  <a href="./02_capitulo.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">2. Caracterización territorial y ambiental</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./03_capitulo.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">3. EL CLIMA EN EL DEPARTAMENTO</span></a>
+  <a href="./03_capitulo.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">3. El clima en el departamento</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./04_capitulo.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">4. ÁREAS DE IMPORTANCIA AMBIENTAL DEPARTAMENTAL</span></a>
+  <a href="./04_capitulo.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">4. Áreas de importancia ambiental departamental</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./05_capitulo.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">5. IDENTIFICACIÓN DE ESCENARIOS DE RIESGO</span></a>
+  <a href="./05_capitulo.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">5. Identificación de escenarios de riesgo</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./06_capitulo.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">6. REFERENCIAS</span></a>
+  <a href="./06_capitulo.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">6. Referencias</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./07_capitulo.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">7. GLOSARIO</span></a>
+  <a href="./07_capitulo.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">7. Glosario</span></a>
   </div>
 </li>
     </ul>
@@ -218,28 +180,38 @@ background-size: cover;
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">Table of contents</h2>
+    <h2 id="toc-title">Tabla de contenidos</h2>
    
   <ul>
-  <li><a href="#introducción" id="toc-introducción" class="nav-link active" data-scroll-target="#introducción">1. INTRODUCCIÓN</a>
-  <ul class="collapse">
-  <li><a href="#objetivo-de-la-ficha-departamental" id="toc-objetivo-de-la-ficha-departamental" class="nav-link" data-scroll-target="#objetivo-de-la-ficha-departamental">1. Objetivo de la ficha departamental</a></li>
+  <li><a href="#objetivo-de-la-ficha-departamental" id="toc-objetivo-de-la-ficha-departamental" class="nav-link active" data-scroll-target="#objetivo-de-la-ficha-departamental">1. Objetivo de la ficha departamental</a></li>
   <li><a href="#alcance-y-metodología-de-recopilación-de-información." id="toc-alcance-y-metodología-de-recopilación-de-información." class="nav-link" data-scroll-target="#alcance-y-metodología-de-recopilación-de-información.">2. Alcance y metodología de recopilación de información.</a></li>
   <li><a href="#población-objetivo." id="toc-población-objetivo." class="nav-link" data-scroll-target="#población-objetivo.">3. Población objetivo.</a></li>
   <li><a href="#marco-normativo-y-referencias-institucionales." id="toc-marco-normativo-y-referencias-institucionales." class="nav-link" data-scroll-target="#marco-normativo-y-referencias-institucionales.">4. Marco normativo y referencias institucionales.</a></li>
-  </ul></li>
   </ul>
-</nav>
+<div class="toc-actions"><ul><li><a href="https://github.com/scr-ungrd/fichas-departamentales-escenarios-riesgo-cordoba/blob/main/01_introduccion.qmd" class="toc-action"><i class="bi bi-github"></i>Ver el código</a></li><li><a href="https://github.com/scr-ungrd/fichas-departamentales-escenarios-riesgo-cordoba/issues/new" class="toc-action"><i class="bi empty"></i>Informar sobre problema</a></li></ul></div></nav>
     </div>
 <!-- main -->
-<main class="content quarto-banner-title-block" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title"><span class="chapter-title">1. INTRODUCCIÓN</span></h1>
+</div>
 
 
 
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
 
 
-<section id="introducción" class="level1">
-<h1>1. INTRODUCCIÓN</h1>
+</header>
+
+
 <section id="objetivo-de-la-ficha-departamental" class="level2">
 <h2 class="anchored" data-anchor-id="objetivo-de-la-ficha-departamental">1. Objetivo de la ficha departamental</h2>
 <p>La ficha departamental tiene como objetivo presentar de manera clara y resumida las características territoriales y ambientales de cada departamento, con el fin de apoyar la Gestión del Riesgo de Desastres (GRD). Este documento recopila información clave sobre aspectos geográficos, humanos, arqueológicos y ambientales que influyen en el ordenamiento del territorio, y ayuda a identificar posibles escenarios de riesgo. Además, incorpora los lineamientos normativos nacionales y hace referencia a los antecedentes históricos de eventos que han generado amenazas y sus impactos. Todo ello con el objetivo de facilitar la comprensión de las dinámicas territoriales y brindar herramientas útiles para que los tomadores de decisiones actúen de manera informada, promoviendo la sostenibilidad ambiental y una adecuada gestión del riesgo.</p>
@@ -259,7 +231,6 @@ background-size: cover;
 <p>Para la elaboración de esta investigación, se consultaron diversas fuentes institucionales reconocidas a nivel nacional. Entre ellas se encuentran el Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt, el Instituto Colombiano de Antropología e Historia (ICANH), el Instituto de Hidrología, Meteorología y Estudios Ambientales (IDEAM) y el Departamento Administrativo Nacional de Estadística (DANE). También se utilizaron datos del Instituto Geográfico Agustín Codazzi (IGAC), el Servicio Geológico Colombiano (SGC), el Instituto de Investigaciones Marinas y Costeras (INVEMAR), y diversas Corporaciones Autónomas Regionales (CAR).</p>
 
 
-</section>
 </section>
 
 </main> <!-- /main -->
@@ -288,12 +259,12 @@ background-size: cover;
       // flash "checked"
       button.classList.add('code-copy-button-checked');
       var currentTitle = button.getAttribute("title");
-      button.setAttribute("title", "Copied!");
+      button.setAttribute("title", "Copiado");
       let tooltip;
       if (window.bootstrap) {
         button.setAttribute("data-bs-toggle", "tooltip");
         button.setAttribute("data-bs-placement", "left");
-        button.setAttribute("data-bs-title", "Copied!");
+        button.setAttribute("data-bs-title", "Copiado");
         tooltip = new bootstrap.Tooltip(button, 
           { trigger: "manual", 
             customClass: "code-copy-button-tooltip",
@@ -665,13 +636,13 @@ background-size: cover;
   </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./00_legal.html" class="pagination-link" aria-label="Información Legal">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">Información Legal</span></span>
+      <a href="./00_legal.html" class="pagination-link" aria-label="Página Legal">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">Página Legal</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./02_capitulo.html" class="pagination-link" aria-label="2. CARACTERIZACIÓN TERRITORIAL Y AMBIENTAL">
-        <span class="nav-page-text"><span class="chapter-title">2. CARACTERIZACIÓN TERRITORIAL Y AMBIENTAL</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./02_capitulo.html" class="pagination-link" aria-label="2. Caracterización territorial y ambiental">
+        <span class="nav-page-text"><span class="chapter-title">2. Caracterización territorial y ambiental</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
@@ -680,4 +651,4 @@ background-size: cover;
 
 
 
-</body></html>
+<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/scr-ungrd/fichas-departamentales-escenarios-riesgo-cordoba/blob/main/01_introduccion.qmd" class="toc-action"><i class="bi bi-github"></i>Ver el código</a></li><li><a href="https://github.com/scr-ungrd/fichas-departamentales-escenarios-riesgo-cordoba/issues/new" class="toc-action"><i class="bi empty"></i>Informar sobre problema</a></li></ul></div></div></div></footer></body></html>
