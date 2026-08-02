@@ -1,12 +1,3 @@
----
-title: "7. GLOSARIO"
-subtitle: "Ficha departamental de caracterización de escenarios de riesgo: Departamento de Córdoba"
-author:
-  - name: "Unidad Nacional para la Gestión del Riesgo de Desastres"
-    affiliations:
-      - name: "Subdirección para el Conocimiento del Riesgo - UNGRD"
-date: "2026"
----
 
 # 7. GLOSARIO
 
@@ -57,17 +48,17 @@ LISTADO DE FIGURAS
 
 [Figura 2 Distribución demográfica del departamento de Córdoba. FUENTE: Tomado de la proyección DANE (2024), pg. 1 y 2. 10](#_Toc216554590)
 
-[Figura 3 Participación por actividad económica en el departamento de Córdoba. 2022. Fuente: UPRA-DANE, pg. 8. 11](#figura.-3-participación-por-actividad-económica-en-el-departamento-de-córdoba.-2022.-fuente-upra-dane-pg.-8.)
+[Figura 3 Participación por actividad económica en el departamento de Córdoba, 2022. Fuente: UPRA (2024) y DANE, pg. 8. 11](#figura.-3-participación-por-actividad-económica-en-el-departamento-de-córdoba.-2022.-fuente-upra-dane-pg.-8.)
 
 [Figura 4 MAPA GEOLOGICO DE COLOMBIA, ESCALA 1:1'500.000. FUENTE: Gómez, J., Montes, N.E. & Marín, E., compiladores. 2023. 15](#figura-4-mapa-geologico-de-colombia-escala-11500.000.-fuente-gómez-j.-montes-n.e.-marín-e.-compiladores.-2023.)
 
-[Figura 5 Mapa geológico de Córdoba, pagina 74. FUENTE: Plan Departamental de Gestión del Riesgo de Desastres - PDGRD (2022 - 2031), pg. 82. 16](#figura.-5-mapa-geológico-de-córdoba-pagina-74.-fuente-plan-departamental-de-gestión-del-riesgo-de-desastres---pdgrd-2022---2031-pg.-82.)
+[Figura 5 Mapa geológico de Córdoba, pagina 74. FUENTE: Plan Departamental de Gestión del Riesgo de Desastres, Gobernación de Córdoba (2022), pg. 82. 16](#figura.-5-mapa-geológico-de-córdoba-pagina-74.-fuente-plan-departamental-de-gestión-del-riesgo-de-desastres---pdgrd-2022---2031-pg.-82.)
 
 [Figura 6 Cuencas sedimentaria Sinú-San Jacinto (SSJ) en el departamento de Córdoba. FUENTE: ANH (2011) 18](#figura-6-cuencas-sedimentaria-sinú-san-jacinto-ssj-en-el-departamento-de-córdoba.-fuente-anh-2011)
 
 [Figura 7 Mapa de las redes de gasoductos en la costa caribe. FUENTE: Promigas (2025) 19](#figura.-7-mapa-de-las-redes-de-gasoductos-en-la-costa-caribe.-fuente-promigas-2025)
 
-[Figura 8 Regiones climáticas en el Departamento de Córdoba, pagina 7. Fuente: FAO-IDEAM (2022). 20](#figura.-8-regiones-climáticas-en-el-departamento-de-córdoba-pagina-7.-fuente-fao-ideam-2022.)
+[Figura 8 Regiones climáticas en el Departamento de Córdoba, pagina 7. Fuente: FAO (2022). 20](#figura.-8-regiones-climáticas-en-el-departamento-de-córdoba-pagina-7.-fuente-fao-ideam-2022.)
 
 [Figura 9. Variabilidad climática del "Niño" y "Niña" en las regiones climáticas, páginas 10 y 11. Fuente: FAO (2022). 21](#figura-9.-variabilidad-climática-del-niño-y-niña-en-las-regiones-climáticas-páginas-10-y-11.-fuente-fao-2022.)
 
@@ -77,9 +68,9 @@ LISTADO DE FIGURAS
 
 [Figura 12 ESCENARIOS DE CAMBIO CLIMATICO PROYECTADOS POR AR 6. FUENTE: Escoto Castillo et al . (2017) 25](#figura-12-escenarios-de-cambio-climatico-proyectados-por-ar-6.-fuente-escoto-castillo-et-al-.-2017)
 
-[Figura 13 TENDENCIAS Y PROYECCIONES PARA LOS ESCENARIOS DE PRECIPITACION AL DEPARTAMENTO DE CORDOBA. FUENTE: IDEAM (2025) 27](#figura-13-tendencias-y-proyecciones-para-los-escenarios-de-precipitacion-al-departamento-de-cordoba.-fuente-ideam-2025)
+[Figura 13 TENDENCIAS Y PROYECCIONES PARA LOS ESCENARIOS DE PRECIPITACION AL DEPARTAMENTO DE CORDOBA. FUENTE: IDEAM (2025a) 27](#figura-13-tendencias-y-proyecciones-para-los-escenarios-de-precipitacion-al-departamento-de-cordoba.-fuente-ideam-2025)
 
-[Figura 14 TENDENCIAS Y PROYECCIONES PARA LOS ESCENARIOS DE TEMPERATURAS MAXIMAS ANUALES EN EL DEPARTAMENTO DE CORDOBA. FUENTE: IDEAM (2025) 28](#figura-14-tendencias-y-proyecciones-para-los-escenarios-de-temperaturas-maximas-anuales-en-el-departamento-de-cordoba.-fuente-ideam-2025)
+[Figura 14 TENDENCIAS Y PROYECCIONES PARA LOS ESCENARIOS DE TEMPERATURAS MAXIMAS ANUALES EN EL DEPARTAMENTO DE CORDOBA. FUENTE: IDEAM (2025b) 28](#figura-14-tendencias-y-proyecciones-para-los-escenarios-de-temperaturas-maximas-anuales-en-el-departamento-de-cordoba.-fuente-ideam-2025)
 
 [Figura 15 Mapa de las subregiones ambientales del departamento. FUENTE: Fundación Herencia Ambiental Caribe (2020) 30](#figura-15-mapa-de-las-subregiones-ambientales-del-departamento.-fuente-fundación-herencia-ambiental-caribe-2020)
 
@@ -105,9 +96,9 @@ LISTADO DE FIGURAS
 
 [Figura 26 Pérdida Anual Esperada por Sismo a nivel Municipal. Fuente: Portal Geográfico del Conocimiento del riesgo de desastres (2025). 44](#figura-26-pérdida-anual-esperada-por-sismo-a-nivel-municipal.-fuente-portal-geográfico-del-conocimiento-del-riesgo-de-desastres-2025.)
 
-[Figura 27 Mapa amenaza por tsunami -- Atlántico. Fuente: Atlas de riesgo de Colombia, UNGRD (2021), pg. 38. 45](#figura.-27-mapa-amenaza-por-tsunami-atlántico.-fuente-atlas-de-riesgo-de-colombia-ungrd-2021-pg.-38.)
+[Figura 27 Mapa amenaza por tsunami -- Atlántico. Fuente: Atlas de riesgo de Colombia, UNGRD (2021a), pg. 38. 45](#figura.-27-mapa-amenaza-por-tsunami-atlántico.-fuente-atlas-de-riesgo-de-colombia-ungrd-2021-pg.-38.)
 
-[Figura 28 Mapa de pérdida Anual Esperada por Tsunami a nivel Municipal. Fuente: Diagnostico de información del riesgo de desastres departamento de Córdoba, UNGRD (2021), pg. 9. 45](#figura.-28-mapa-de-pérdida-anual-esperada-por-tsunami-a-nivel-municipal.-fuente-diagnostico-de-información-del-riesgo-de-desastres-departamento-de-córdoba-ungrd-2021-pg.-9.)
+[Figura 28 Mapa de pérdida Anual Esperada por Tsunami a nivel Municipal. Fuente: Diagnostico de información del riesgo de desastres departamento de Córdoba, UNGRD (2021b), pg. 9. 45](#figura.-28-mapa-de-pérdida-anual-esperada-por-tsunami-a-nivel-municipal.-fuente-diagnostico-de-información-del-riesgo-de-desastres-departamento-de-córdoba-ungrd-2021-pg.-9.)
 
 [Figura 29 Puntos críticos en la cuenca del río Sinú. Fuente: Plan Departamental de Gestión del Riesgo de Desastres, Gobernación de Córdoba y CVS (2021), versión pdf, pg. 212. 47](#figura-29-puntos-críticos-en-la-cuenca-del-río-sinú.-fuente-plan-departamental-de-gestión-del-riesgo-de-desastres-gobernación-de-córdoba-y-cvs-2021-versión-pdf-pg.-212.)
 
@@ -153,7 +144,7 @@ LISTADO DE TABLAS
 
 [Tabla 13 Priorización de municipios con escenarios de amenaza por avenidas torrenciales. Fuente: UNGRD (2022). 44](#_Toc216552983)
 
-[Tabla 14 Municipios con amenaza sísmica intermedia en el departamento. Fuente: UNGRD (2021). 46](#_Toc216552984)
+[Tabla 14 Municipios con amenaza sísmica intermedia en el departamento. Fuente: UNGRD (2021a). 46](#_Toc216552984)
 
 [Tabla 15 Evidencias del programa en el municipio de Ayapel. FUENTE: UNGRD (2024). 59](#_Toc216552985)
 

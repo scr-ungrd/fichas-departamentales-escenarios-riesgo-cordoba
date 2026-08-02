@@ -1,15 +1,5 @@
----
-title: "3. EL CLIMA EN EL DEPARTAMENTO"
-subtitle: "Ficha departamental de caracterización de escenarios de riesgo: Departamento de Córdoba"
-author:
-  - name: "Unidad Nacional para la Gestión del Riesgo de Desastres"
-    affiliations:
-      - name: "Subdirección para el Conocimiento del Riesgo - UNGRD"
-date: "2026"
----
 
 # 3. EL CLIMA EN EL DEPARTAMENTO 
-
 
 ## 3.1. Climatología en general.
 
@@ -21,9 +11,7 @@ B.  Urabá y Bajo Magdalena. (Color amarillo) 
 
 ![](./media/image13.png){width="2.072580927384077in" height="2.399339457567804in"}
 
-######## Figura 8 Regiones climáticas en el Departamento de Córdoba, pagina 7. Fuente: FAO-IDEAM (2022).
-
-*LINK: [[https://cambioclimatico.fao.org.co/wp-content/uploads/2023/06/13-CORDOBA_24.02.2023.pdf]{.underline}](https://cambioclimatico.fao.org.co/wp-content/uploads/2023/06/13-CORDOBA_24.02.2023.pdf)*
+######## Figura 8 Regiones climáticas en el Departamento de Córdoba, pagina 7. Fuente: FAO (2022).
 
 ## 3.2. Temperatura promedio por región climática. 
 
@@ -48,8 +36,6 @@ En cambio, la temporada seca ocurre en los primeros meses del año y al final de
 ######## 
 
 ######## Figura 9. Variabilidad climática del "Niño" y "Niña" en las regiones climáticas, páginas 10 y 11. Fuente: FAO (2022). 
-
-*Link: [[https://cambioclimatico.fao.org.co/wp-content/uploads/2023/06/13-CORDOBA_24.02.2023.pdf]{.underline}](https://cambioclimatico.fao.org.co/wp-content/uploads/2023/06/13-CORDOBA_24.02.2023.pdf)*
 
 Estas gráficas de variabilidad climática proyectadas anteriormente, demuestran que el fenómeno "*El Niño"* afecta principalmente el primer y segundo trimestre del año, reduciendo las lluvias hasta en un 21 %, lo que genera condiciones más secas durante esos meses. Por el contrario, "*La Niña"* aumenta las lluvias en el segundo y tercer trimestre, justo cuando suelen presentarse las precipitaciones más intensas, con aumentos de más del 15 %.
 
@@ -135,9 +121,7 @@ En términos generales, los expertos del IPCC establecen cinco escenarios posibl
 
 ![](./media/image19.png){width="4.635663823272091in" height="6.308333333333334in"}
 
-######## Figura 12 ESCENARIOS DE CAMBIO CLIMATICO PROYECTADOS POR AR 6. FUENTE: Escoto Castillo et al . (2017)
-
-Link:[[https://drive.google.com/file/d/1QOJ5VKz6-xRtQN1GHx6x03Izj7V965cq/view?usp=drive_link]{.underline}](https://drive.google.com/file/d/1QOJ5VKz6-xRtQN1GHx6x03Izj7V965cq/view?usp=drive_link)
+######## Figura 12 ESCENARIOS DE CAMBIO CLIMATICO PROYECTADOS POR AR 6. FUENTE: Escoto Castillo et al. (2017)
 
 Con base en las definiciones anteriores, en las siguientes secciones se exponen las proyecciones climáticas futuras de precipitación, temperaturas media, máxima y mínima, humedad relativa, velocidad del viento y radiación para el siglo XXI, las cuales corresponden a los escenarios de cambio climático que se deben incorporar en la Cuarta Comunicación Nacional de Colombia.
 
@@ -153,15 +137,11 @@ Referente a las tendencias de temperatura: Las proyecciones térmicas revelan un
 
 ![](./media/image20.png){width="4.455980971128609in" height="5.8969411636045495in"}
 
-######## Figura 13 TENDENCIAS Y PROYECCIONES PARA LOS ESCENARIOS DE PRECIPITACION AL DEPARTAMENTO DE CORDOBA. FUENTE: IDEAM (2025)
-
-LINK: [[https://drive.google.com/file/d/1F0r1mJKU387P8f3dV2EZAcpNrfoGNYoS/view?usp=drive_link]{.underline}](https://drive.google.com/file/d/1F0r1mJKU387P8f3dV2EZAcpNrfoGNYoS/view?usp=drive_link)
+######## Figura 13 TENDENCIAS Y PROYECCIONES PARA LOS ESCENARIOS DE PRECIPITACION AL DEPARTAMENTO DE CORDOBA. FUENTE: IDEAM (2025a)
 
 ![](./media/image21.png){width="4.154166666666667in" height="5.341666666666667in"}
 
-######## Figura 14 TENDENCIAS Y PROYECCIONES PARA LOS ESCENARIOS DE TEMPERATURAS MAXIMAS ANUALES EN EL DEPARTAMENTO DE CORDOBA. FUENTE: IDEAM (2025)
-
-LINK: [[https://drive.google.com/file/d/15QFMh3ZtMu5xEWg17UpTwH7_JftKZ0TV/view?usp=drive_link]{.underline}](https://drive.google.com/file/d/15QFMh3ZtMu5xEWg17UpTwH7_JftKZ0TV/view?usp=drive_link)
+######## Figura 14 TENDENCIAS Y PROYECCIONES PARA LOS ESCENARIOS DE TEMPERATURAS MAXIMAS ANUALES EN EL DEPARTAMENTO DE CORDOBA. FUENTE: IDEAM (2025b)
 
 ### Conclusiones e interpretaciones finales.
 

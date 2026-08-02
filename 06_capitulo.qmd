@@ -1,66 +1,67 @@
----
-title: "6. REFERENCIAS"
-subtitle: "Ficha departamental de caracterización de escenarios de riesgo: Departamento de Córdoba"
-author:
-  - name: "Unidad Nacional para la Gestión del Riesgo de Desastres"
-    affiliations:
-      - name: "Subdirección para el Conocimiento del Riesgo - UNGRD"
-date: "2026"
----
 
 # 6. REFERENCIAS
 
 
-Acuerdo 11 de 2008, de la Agencia Nacional de Hidrocarburos (ANH).
-[[https://www.suin-juriscol.gov.co/clp/contenidos.dll/Acuerdo/4000080?fn=document-frame.htm$f=templates$3.0]{.underline}](https://www.suin-juriscol.gov.co/clp/contenidos.dll/Acuerdo/4000080?fn=document-frame.htm$f=templates$3.0)
+Acuerdo 11 de 2008, de la Agencia Nacional de Hidrocarburos (ANH). <https://www.suin-juriscol.gov.co/clp/contenidos.dll/Acuerdo/4000080?fn=document-frame.htm$f=templates$3.0>
 
-Acuerdo 04 de 2017, de la Agencia Nacional de Hidrocarburos (ANH). [[https://www.anh.gov.co/documents/4041/Acuerdo-4-de-2017-Define-algunas-Areas-disponibles.pdf]{.underline}](https://www.anh.gov.co/documents/4041/Acuerdo-4-de-2017-Define-algunas-Areas-disponibles.pdf)
+Acuerdo 04 de 2017, de la Agencia Nacional de Hidrocarburos (ANH). <https://www.anh.gov.co/documents/4041/Acuerdo-4-de-2017-Define-algunas-Areas-disponibles.pdf>
 
-FAO (2022). Análisis Departamental de Vulnerabilidad y Riesgo frente al Cambio Climático para el sector Agropecuario. Pág. 31.
-
-Unidad de Planificación Rural Agropecuaria (UPRA). (2024, 22 de agosto). Documento regional. Córdoba. Ministerio de Agricultura y Desarrollo Rural. [[https://upra.gov.co/Kit_Territorial/2-%20Informaci%C3%B3n%20por%20Departamentos/C%C3%93RDOBA/2-%20Documento%20Regional%20UPRA%20C%C3%B3rdoba.pdf]{.underline}](https://upra.gov.co/Kit_Territorial/2-%20Informaci%C3%B3n%20por%20Departamentos/C%C3%93RDOBA/2-%20Documento%20Regional%20UPRA%20C%C3%B3rdoba.pdf)
-
-GOBERNACION DE CORDOBA. (2022). Plan Departamental para la Gestión del Riesgo de Desastres 2022-2031. Córdoba. Colombia. Pag 384. 
-
-GOBERNACION DE CORDOBA (2024). Plan de Desarrollo Departamental "Córdoba Lo Tiene Todo Para Estar A Otro Nivel". Córdoba. Colombia. Pág. 552. 
+Agencia Nacional de Hidrocarburos (ANH). (2011). Cuencas sedimentarias de Colombia. <https://www.anh.gov.co/documents/4172/Cuencas_Sedimentarias_de_Colombia_PDF.pdf>
 
 CVS. (2019). Protocolo local de estadísticas, análisis y medidas de manejo de incendios forestales en ecosistemas estratégicos del departamento de Córdoba. Corporación Autónoma Regional de los Valles del Sinú y del San Jorge -- CVS.
 
-CVS. (2020). Plan de Gestión Ambiental Regional 2020-2031. Córdoba. Colombia. Pág. 204.
+CVS. (2020). Plan de Gestión Ambiental Regional 2020-2031. Córdoba, Colombia.
 
 CVS. (2022). Plan Integral de Gestión del Cambio Climático Territorial, departamento de Córdoba. Corporación Autónoma Regional de los Valles del Sinú y del San Jorge -- CVS.
 
-ICANH (2025). Instituto Colombiano de Antropología e Historia. Geo visor De Hallazgos Y Áreas Arqueológicas Protegidas En Colombia. En <https://geoparques.icanh.gov.co/#/>
+DANE. (2024). Ficha de caracterización territorial: Córdoba [TerriData]. Departamento Nacional de Planeación. <https://terridata.blob.core.windows.net/fichas/Ficha_23000.pdf>
+
+DANE. (2025). Directorio estadístico de industrias, departamento de Córdoba [dashboard].
+
+Escoto Castillo, A. et al. (2017). Escenarios de cambio climático proyectados (AR6) [documento]. <https://drive.google.com/file/d/1QOJ5VKz6-xRtQN1GHx6x03Izj7V965cq/view>
+
+FAO. (2022). Análisis Departamental de Vulnerabilidad y Riesgo frente al Cambio Climático para el sector Agropecuario: Córdoba. Pág. 31. <https://cambioclimatico.fao.org.co/wp-content/uploads/2023/06/13-CORDOBA_24.02.2023.pdf>
+
+Gobernación de Córdoba. (2022). Plan Departamental para la Gestión del Riesgo de Desastres 2022-2031. Córdoba, Colombia. Pág. 384.
+
+Gobernación de Córdoba. (2024). Plan de Desarrollo Departamental "Córdoba Lo Tiene Todo Para Estar A Otro Nivel". Córdoba, Colombia. Pág. 552.
+
+Gobernación de Córdoba & CVS. (2021). Plan Departamental de Gestión del Riesgo de Desastres [versión PDF]. <https://drive.google.com/file/d/1oj27ff9ZG4AUTwDZrFSv1SLVEEILtSWK/view>
+
+ICANH. (2025). Instituto Colombiano de Antropología e Historia. Geovisor de hallazgos y áreas arqueológicas protegidas en Colombia. <https://geoparques.icanh.gov.co/#/>
 
 IDEAM. (2018). La variabilidad climática y el cambio climático en Colombia. Instituto de Hidrología, Meteorología, y Estudios Ambientales -- IDEAM.
 
-INVEMAR. (2016). Formulación del Plan de Manejo Integrado de la Unidad Ambiental Costera Estuarina Río Sinú - Golfo de Morrosquillo, Caribe colombiano. Santa Marta. Colombia. 
+IDEAM. (2025a). Tendencias y proyecciones de precipitación para el departamento de Córdoba. <https://drive.google.com/file/d/1F0r1mJKU387P8f3dV2EZAcpNrfoGNYoS/view>
 
-PNN (2025). Nuestros Parque, Región Caribe. Colombia. En <https://www.parquesnacionales.gov.co/nuestros-parques/#caribe>
+IDEAM. (2025b). Tendencias y proyecciones de temperaturas máximas anuales para el departamento de Córdoba. <https://drive.google.com/file/d/15QFMh3ZtMu5xEWg17UpTwH7_JftKZ0TV/view>
+
+INVEMAR. (2016). Formulación del Plan de Manejo Integrado de la Unidad Ambiental Costera Estuarina Río Sinú - Golfo de Morrosquillo, Caribe colombiano. Santa Marta, Colombia.
+
+Parques Nacionales Naturales de Colombia (PNN). (2025). Nuestros parques, región Caribe. <https://www.parquesnacionales.gov.co/nuestros-parques/#caribe>. Geovisor de áreas protegidas: <https://mapas.parquesnacionales.gov.co/>
+
+Portal Geográfico del Conocimiento del Riesgo de Desastres. (2025). Visor de pérdida anual esperada [dashboard]. Unidad Nacional para la Gestión del Riesgo de Desastres. <https://ungrd.maps.arcgis.com/apps/dashboards/dcd959995f3a480aa2b9bf50bc56e78d>
+
+Promigas. (2025). Mapa del gasoducto [Procedimientos operacionales]. <https://www.promigas.com/Beo/Paginas/ProcedimientosOperacionales/Mapa-del-gasoducto.aspx>
+
+Registro Único Nacional de Áreas Protegidas (RUNAP). (2025). Córdoba. Parques Nacionales Naturales de Colombia. <https://runap.parquesnacionales.gov.co/area-protegida/215>
 
 República de Colombia. (2012). Ley 1523. Bogotá: Presidencia de la República.
 
+Servicio Geológico Colombiano (SGC). (2023). Mapa geológico de Colombia [geoportal]. <https://srvags.sgc.gov.co/jsViewer/Mapa_Geologico_colombiano_2023/>
+
+Servicio Geológico Colombiano (SGC). (s.f.). Cartografía geológica de la plancha 62 -- La Ye, departamentos de Córdoba y Sucre. <https://miig.sgc.gov.co/Paginas/Resultados.aspx?k=Cartograf%C3%ADa+geol%C3%B3gica+de+la+plancha+62+La+Ye,+departamentos+de+C%C3%B3rdoba+y+Sucre>
+
 UNGRD. (2018). Atlas de Riesgo de Colombia: Revelando los desastres latentes. Bogotá D.C., Colombia: Unidad Nacional para la Gestión del Riesgo de Desastres; Ingeniar Risk Intelligence.
 
-Viloria de la Hoz, J. (2004, noviembre). Documento de trabajo sobre economía regional No. 51. Banco de la República de Colombia. [[https://www.banrep.gov.co/sites/default/files/publicaciones/archivos/DTSER-51.pdf]{.underline}](https://www.banrep.gov.co/sites/default/files/publicaciones/archivos/DTSER-51.pdf)
+UNGRD. (2021a). Atlas de Riesgo de Colombia: revelando los desastres latentes [versión actualizada]. <https://drive.google.com/file/d/1XS7wURqTKYck8hL5dIyVPWD0SqVn4fOE/view>
 
--   *Para más información sobre el geoportal del Servicio Geológico Colombiano (SGC), buscar en el siguiente link: [[https://srvags.sgc.gov.co/jsViewer/Mapa_Geologico_colombiano_2023/]{.underline}](https://srvags.sgc.gov.co/jsViewer/Mapa_Geologico_colombiano_2023/)*  
+UNGRD. (2021b). Diagnóstico de información del riesgo de desastres, departamento de Córdoba.
 
-```{=html}
-<!-- -->
-```
--   *Para más información sobre la cartografia geológica del departamento de Cordoba en la plancha 62 -- La Ye, buscar en el siguiente link:
-    [[https://miig.sgc.gov.co/Paginas/Resultados.aspx?k=Cartograf%C3%ADa+geol%C3%B3gica+de+la+plancha+62+La+Ye,+departamentos+de+C%C3%B3rdoba+y+Sucre]{.underline}](https://miig.sgc.gov.co/Paginas/Resultados.aspx?k=Cartograf%C3%ADa+geol%C3%B3gica+de+la+plancha+62+La+Ye,+departamentos+de+C%C3%B3rdoba+y+Sucre)*
+UNGRD. (2024). Reporte de afectaciones por municipio, departamento de Córdoba (1938-2024) [base de datos]. <https://docs.google.com/spreadsheets/d/1qhhtHFBTsAgIUPArlf_MnAlrnexpvjUM/edit>
 
-```{=html}
-<!-- -->
-```
--   Link del Geovisor de los Parques nacionales naturales de Colombia. [[https://mapas.parquesnacionales.gov.co/]{.underline}](https://mapas.parquesnacionales.gov.co/)
+UNGRD. (2025). Mapa de calor de riesgos Natech, accidentes tecnológicos 2011-2024 [dashboard Looker Studio]. <https://lookerstudio.google.com/u/0/reporting/a7a6878c-41ed-48ae-9f01-7f3882928f2a/page/Y9M8E>
 
-```{=html}
-<!-- -->
-```
--   Link del Geovisor de áreas arqueológicas protegidas por la autoridad ICANH.
+UPRA. (2024, 22 de agosto). Documento regional. Córdoba. Ministerio de Agricultura y Desarrollo Rural. <https://upra.gov.co/Kit_Territorial/2-%20Informaci%C3%B3n%20por%20Departamentos/C%C3%93RDOBA/2-%20Documento%20Regional%20UPRA%20C%C3%B3rdoba.pdf>
 
-[[https://geoparques.icanh.gov.co/#/]{.underline}](https://geoparques.icanh.gov.co/#/)
-
+Viloria de la Hoz, J. (2004, noviembre). Documento de trabajo sobre economía regional No. 51. Banco de la República de Colombia. <https://www.banrep.gov.co/sites/default/files/publicaciones/archivos/DTSER-51.pdf>

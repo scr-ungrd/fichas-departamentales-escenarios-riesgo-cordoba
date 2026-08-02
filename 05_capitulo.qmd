@@ -1,15 +1,5 @@
----
-title: "5. IDENTIFICACIÓN DE ESCENARIOS DE RIESGO"
-subtitle: "Ficha departamental de caracterización de escenarios de riesgo: Departamento de Córdoba"
-author:
-  - name: "Unidad Nacional para la Gestión del Riesgo de Desastres"
-    affiliations:
-      - name: "Subdirección para el Conocimiento del Riesgo - UNGRD"
-date: "2026"
----
 
 # 5. IDENTIFICACIÓN DE ESCENARIOS DE RIESGO
-
 
 ## 5.1. Antecedentes históricos.
 
@@ -132,8 +122,6 @@ fig.show()
 
 Según el visor de consolidado de emergencias se reportaron 2.088 eventos durante el periodo del 1938-2024, las perdidas y daños totales de estos eventos sumaron 148 personas fallecidas, 28 personas desaparecidas, 20.767 heridos, en total 2.172.506 personas afectadas, 7.224 viviendas destruidas y 171 centros educativos afectados.
 
- 
-
 ![](./media/image28.png){width="5.111383420822397in" height="1.2894225721784778in"}
 
 ######## Figura 20 Reporte de afectaciones por eventos presentados en el departamento de Córdoba (1938-2024). Fuente: UNGRD (2024)
@@ -143,8 +131,6 @@ Según el visor de consolidado de emergencias se reportaron 2.088 eventos durant
 ![](./media/image29.png){width="3.6992793088363953in" height="3.143844050743657in"}
 
 ######## Figura 21 Reporte de afectaciones en municipios por eventos presentados en el departamento de Córdoba (1938-2024). Fuente: UNGRD (2024)
-
-*Link: [[https://docs.google.com/spreadsheets/d/1qhhtHFBTsAgIUPArlf_MnAlrnexpvjUM/edit?usp=drive_link&ouid=108412018052088229189&rtpof=true&sd=true]{.underline}](https://docs.google.com/spreadsheets/d/1qhhtHFBTsAgIUPArlf_MnAlrnexpvjUM/edit?usp=drive_link&ouid=108412018052088229189&rtpof=true&sd=true)*
 
 La distribución porcentual de eventos reportados por los municipios de Córdoba es liderada por Montería (15%) y Lorica (9.8%) como los municipios con más eventos. Después, se destaca Cereté (9.1%) y Tierralta (6.7%), mientras que municipios como Montelíbano, San Pelayo y otros, tienen reportes de eventos menores al 8%.
 
@@ -248,8 +234,6 @@ Recientemente, el Servicio Geológico Colombiano (SGC, 2021) construyó la "Guí
 
 Los movimientos en masa en el departamento de Córdoba corresponden a deslizamientos, desprendimientos y flujos de suelo y rocas causados por la acción de la gravedad (Cruden, 1991).
 
- 
-
 La susceptibilidad a estos fenómenos está determinada por factores internos como la composición del suelo---donde materiales como arcillas y arenas presentan alta inestabilidad---, la topografía del terreno y la presencia de agua, que debilita la cohesión del suelo. A esto se suman factores externos como la deforestación, el uso intensivo del suelo para actividades agropecuarias y mineras, así como la expansión urbana desordenada, que generan alteraciones en los patrones de drenaje y desestabilización de laderas.  
 
 Los municipios con mayor afectación se encuentran en la subregión de San Jorge, particularmente San José de Uré, Puerto Libertador y Montelíbano, donde la actividad minera y la explotación de recursos naturales han incrementado el riesgo de deslizamientos. Históricamente, en San José de Uré se han registrado deslizamientos significativos en cerros como San Antonio, Filo de las Cruces y San Pedrito, con pérdidas humanas y materiales. En el municipio de Valencia, hacia la cuenca del río Sinú, se han reportado movimientos en masa asociados a cortes de terreno sin medidas de protección y cambios en el uso del suelo (CVS, 2021).  
@@ -274,7 +258,7 @@ Los municipios que deben tener microzonificación sísmica en el departamento de
   Sahagún     111.135     Intermedia
   ----------- ----------- -----------------
 
-[]{#_Toc216552984 .anchor}Tabla 14 Municipios con amenaza sísmica intermedia en el departamento. Fuente: UNGRD (2021).
+[]{#_Toc216552984 .anchor}Tabla 14 Municipios con amenaza sísmica intermedia en el departamento. Fuente: UNGRD (2021a).
 
 De acuerdo a lo establecido en el Reglamento Colombiano de Construcción Sismo Resistente NSR-10 (sección A.2.9.2) "Las capitales de departamento y las ciudades de más de 100.000 habitantes, localizadas en las zonas de amenaza sísmica intermedia y alta, con el fin de tener en cuenta el efecto que sobre las construcciones tenga la propagación de la onda sísmica a través de los estratos de suelo subyacentes, deberán armonizar los instrumentos de planificación para el ordenamiento territorial, con un estudio o estudios de microzonificación sísmica, que cumpla con el alcance dado en la sección A.2.9.3.". 
 
@@ -285,8 +269,6 @@ Adicionalmente, el Servicio Geológico Colombiano cuenta con un visor en el cual
 ![](./media/image34.jpg){width="3.6586581364829396in" height="3.5593438320209976in"}
 
 ######## Figura 26 Pérdida Anual Esperada por Sismo a nivel Municipal. Fuente: Portal Geográfico del Conocimiento del riesgo de desastres (2025).
-
-*Link: [[https://ungrd.maps.arcgis.com/apps/dashboards/dcd959995f3a480aa2b9bf50bc56e78d]{.underline}](https://ungrd.maps.arcgis.com/apps/dashboards/dcd959995f3a480aa2b9bf50bc56e78d)*
 
 El mapa de la Figura 22 muestra la Pérdida Anual Esperada (PAE) por sismo a nivel municipal en Córdoba, utilizando una escala de colores donde el rojo oscuro indica mayores pérdidas económicas. Municipios como Montería y el centro-norte de Córdoba presentan las afectaciones más altas, con valores que superan los 300.000 millones de pesos, lo que sugiere una mayor concentración de infraestructura y población vulnerable. 
 
@@ -302,17 +284,13 @@ El "Atlas de Riesgo de Colombia: revelando los desastres latentes" presenta mapa
 
 ![](./media/image35.jpg){width="3.716666666666667in" height="2.175in"}
 
-######## Figura 27 Mapa amenaza por tsunami -- Atlántico. Fuente: Atlas de riesgo de Colombia, UNGRD (2021), pg. 38.
-
-*Link: [[https://drive.google.com/file/d/1XS7wURqTKYck8hL5dIyVPWD0SqVn4fOE/view?usp=drive_link]{.underline}](https://drive.google.com/file/d/1XS7wURqTKYck8hL5dIyVPWD0SqVn4fOE/view?usp=drive_link)*
+######## Figura 27 Mapa amenaza por tsunami -- Atlántico. Fuente: Atlas de riesgo de Colombia, UNGRD (2021a), pg. 38.
 
 El Visor Atlas del riesgo de Colombia presenta mapas con pérdida anual esperada por Tsunami y pérdida anual esperada relativa por Tsunami a nivel departamental y municipal.  
 
 ![](./media/image36.png){width="3.6843350831146107in" height="3.459273840769904in"}
 
-######## Figura 28 Mapa de pérdida Anual Esperada por Tsunami a nivel Municipal. Fuente: Diagnostico de información del riesgo de desastres departamento de Córdoba, UNGRD (2021), pg. 9.
-
-*Link: [[https://ungrd.maps.arcgis.com/apps/dashboards/dcd959995f3a480aa2b9bf50bc56e78d]{.underline}](https://ungrd.maps.arcgis.com/apps/dashboards/dcd959995f3a480aa2b9bf50bc56e78d)*
+######## Figura 28 Mapa de pérdida Anual Esperada por Tsunami a nivel Municipal. Fuente: Diagnostico de información del riesgo de desastres departamento de Córdoba, UNGRD (2021b), pg. 9.
 
 Las tonalidades más oscuras indican mayores pérdidas económicas, con valores que superan los 2.500 millones de pesos en zonas costeras del norte. Esto sugiere una mayor exposición al riesgo de tsunamis en estos municipios, probablemente debido a su cercanía al mar y su dependencia de actividades económicas costeras. En contraste, los municipios del interior, como Montería y el sur de Córdoba, presentan pérdidas esperadas significativamente menores, inferiores a 2,5 millones de pesos, debido a su menor exposición a este fenómeno.
 
@@ -330,13 +308,9 @@ Entre los factores que agravan la situación están la regulación hidráulica d
 
 ######## *Figura 29 Puntos críticos en la cuenca del río Sinú. Fuente*: Plan Departamental de Gestión del Riesgo de Desastres, Gobernación de Córdoba y CVS (2021), versión pdf, pg. *212.*
 
-*Link: [[https://drive.google.com/file/d/1oj27ff9ZG4AUTwDZrFSv1SLVEEILtSWK/view?usp=drive_link]{.underline}](https://drive.google.com/file/d/1oj27ff9ZG4AUTwDZrFSv1SLVEEILtSWK/view?usp=drive_link)*
-
 ![](./media/image38.png){width="3.4674245406824147in" height="4.400962379702537in"}
 
 ######## Figura 30 Puntos Críticos en la cuenca del río San Jorge. Fuente: Plan Departamental de Gestión del Riesgo de Desastres, Gobernación de Córdoba y CVS (2021), versión pdf, pg. 216.
-
-*Link:* *[[https://drive.google.com/file/d/1oj27ff9ZG4AUTwDZrFSv1SLVEEILtSWK/view?usp=drive_link]{.underline}](https://drive.google.com/file/d/1oj27ff9ZG4AUTwDZrFSv1SLVEEILtSWK/view?usp=drive_link)*
 
 Este mapa muestra los puntos críticos por erosión en la cuenca del río San Jorge, en el departamento de Córdoba. A lo largo del río se identifican zonas con riesgo alto (rojo), medio (amarillo) y bajo (verde), especialmente en municipios como La Apartada, Montelíbano, Ayapel y Puerto Libertador. La mayoría de los puntos están clasificados con riesgo medio, lo que indica vulnerabilidad ante pérdida de suelo y afectaciones a comunidades cercanas. Esta información es clave para priorizar obras de contención y manejo del cauce. El seguimiento técnico permite prevenir desastres por erosión fluvial.
 
@@ -355,8 +329,6 @@ Estudios indican que el 74 % de la costa presenta alta y muy alta vulnerabilidad
 ![](./media/image39.png){width="3.3720395888013996in" height="4.185in"}
 
 ######## Figura 31 Mapa de puntos críticos por Erosión Costera en el Departamento de Córdoba. Fuente: : Plan Departamental de Gestión del Riesgo de Desastres, Gobernación de Córdoba y CVS (2021), versión pdf, pg. 225.
-
- *Link: [[https://drive.google.com/file/d/1oj27ff9ZG4AUTwDZrFSv1SLVEEILtSWK/view?usp=drive_link]{.underline}](https://drive.google.com/file/d/1oj27ff9ZG4AUTwDZrFSv1SLVEEILtSWK/view?usp=drive_link)*
 
 Este mapa muestra los puntos críticos por erosión costera en el departamento de Córdoba, especialmente a lo largo del litoral Caribe. Las zonas más afectadas, marcadas en rojo, se encuentran cerca de Los Córdobas, Moñitos, San Bernardo del Viento y Puerto Escondido. En amarillo se identifican áreas con amenaza media, y en naranja amenaza alta. Estos sectores costeros están perdiendo terreno debido a la acción del mar, lo cual pone en riesgo viviendas, vías y ecosistemas. Es fundamental implementar medidas de protección para mitigar el impacto de la erosión.
 
@@ -378,8 +350,6 @@ En conclusión, el análisis de la información define con un alto potencial de 
 
 ######## Figura 32 Mapa de municipios con presencia de volcanismo de lodo. Fuente: Plan Departamental de Gestión del Riesgo de Desastres, Gobernación de Córdoba y CVS (2021), versión pdf, pg. 276.
 
-*Link: [[https://drive.google.com/file/d/1oj27ff9ZG4AUTwDZrFSv1SLVEEILtSWK/view?usp=drive_link]{.underline}](https://drive.google.com/file/d/1oj27ff9ZG4AUTwDZrFSv1SLVEEILtSWK/view?usp=drive_link)*
-
 Este mapa muestra los municipios del departamento de Córdoba donde hay presencia de vulcanismo de lodo, señalados en color amarillo. Los más destacados son Canalete, Los Córdobas, Puerto Escondido, Moñitos, San Bernardo del Viento, San Antero y Valencia. Estos fenómenos naturales están concentrados principalmente en la zona norte y noroeste, cerca de la costa Caribe. El resto del territorio, marcado en púrpura, no presenta evidencia registrada de este fenómeno. Conocer estas zonas es clave para la gestión del riesgo y el monitoreo geológico del departamento.
 
 En la Subregión Costanera, los municipios son altamente susceptibles a la erosión causada por el volcanismo de lodo, afectando la estabilidad del terreno y la infraestructura local PMGR, (2023). En el municipio de Valencia, en la subregión del Alto Sinú, también se registra actividad de diapirismo de lodo en una zona de suelos de origen volcánico, caracterizados por su resistencia a bajas concentraciones de fósforo y su capacidad de tolerar periodos cortos de inundación. Este escenario resalta la necesidad de monitoreo y gestión del riesgo, dado que la actividad volcánica de lodo en Córdoba puede impactar tanto los ecosistemas como las comunidades aledañas.
@@ -394,8 +364,6 @@ En este contexto, Córdoba también enfrenta riesgos asociados a la industria te
 
 ######## Figura 33 Mapa de calor para riesgos Natech, accidentes tecnológicos reportados en el departamento de Córdoba entre 2011 y 2024. Fuente: UNGRD (2025)
 
-*Link: [[https://lookerstudio.google.com/u/0/reporting/a7a6878c-41ed-48ae-9f01-7f3882928f2a/page/Y9M8E]{.underline}](https://lookerstudio.google.com/u/0/reporting/a7a6878c-41ed-48ae-9f01-7f3882928f2a/page/Y9M8E)*
-
 Este mapa de calor muestra las zonas del departamento de Córdoba con mayor riesgo Natech (desastres naturales que afectan instalaciones tecnológicas o industriales). Las áreas más críticas están en *Montería y alrededores,* donde el color rojo indica alta concentración de riesgo. También se observan puntos de riesgo en Montelíbano, Planeta Rica, Lorica y la zona costera. El color amarillo representa niveles de riesgo medio, presentes en varias zonas del centro y sur del departamento. Este análisis permite priorizar acciones de prevención en sectores industriales y urbanos vulnerables.
 
 Dentro de este panorama, las hidroeléctricas representan un factor clave en la gestión del riesgo tecnológico. La Hidroeléctrica Urrá ubicada sobre el río Sinú, opera bajo licencia ambiental y es supervisada por la Autoridad Nacional de Licencias Ambientales (ANLA) para mitigar impactos como la erosión fluvial (CVS, 2021). En la Figura 29 se muestra la distribución y el tipo de industria manufacturera en el departamento clasificada por color, según información proporcionada por el DANE.
@@ -404,15 +372,11 @@ Dentro de este panorama, las hidroeléctricas representan un factor clave en la 
 
 ######## Figura 34 Tipo de industrias y su ubicación en el departamento de Córdoba. Adaptado de: DANE, 2025.
 
-*Link: [[https://lookerstudio.google.com/u/0/reporting/a7a6878c-41ed-48ae-9f01-7f3882928f2a/page/Y9M8E]{.underline}](https://lookerstudio.google.com/u/0/reporting/a7a6878c-41ed-48ae-9f01-7f3882928f2a/page/Y9M8E)*
-
 Este gráfico muestra los tipos de industrias presentes en Córdoba y su ubicación geográfica. La actividad más común es el comercio de sustancias químicas, combustibles y no combustibles (42 casos), seguida por saneamiento de desechos no peligrosos (33) y transporte terrestre (26). En el mapa se observa que estas industrias están concentradas al norte y centro del departamento, con algunas en el área del Parque Nacional Paramillo. Actividades como minería e industria alimenticia tienen menos presencia, pero también están distribuidas en varios puntos. Esta información es clave para analizar posibles riesgos Natech en zonas industriales.
 
 ![](./media/image43.png){width="2.9242639982502188in" height="3.5778248031496065in"}
 
 ######## Figura 35 Ubicación de las Hidroeléctricas Urrá e Ituango. Fuente: Plan Departamental de Gestión del Riesgo de Desastres, Gobernación de Córdoba y CVS (2021), versión pdf, pg. 294.
-
-*Link: [[https://drive.google.com/file/d/1oj27ff9ZG4AUTwDZrFSv1SLVEEILtSWK/view?usp=drive_link]{.underline}](https://drive.google.com/file/d/1oj27ff9ZG4AUTwDZrFSv1SLVEEILtSWK/view?usp=drive_link)*
 
 Además de los riesgos tecnológicos, el sector industrial también está sujeto a eventos Natech --amenazas naturales que desencadenan accidentes tecnológicos o industriales. Estos escenarios pueden generar graves consecuencias a pesar de ser eventos de baja probabilidad, lo que hace que los efectos de estos accidentes sean más graves para las personas, el entorno y la infraestructura, en comparación con los provocados por un accidente tecnológico (UNGRD, 2023). Por lo anterior, este tipo de riesgos ha cobrado relevancia en el país, impulsando estrategias de gestión del riesgo conforme a la Ley 1523 de 2012 y el Decreto 2157 de 2017 (UNGRD, 2018), el Programa de Prevención de Accidentes Mayores-PPAM (Decreto 1347 de 2021) y la Resolución 0559 de 2021 que establece los valores de riesgo máximo individual accidental para instalaciones fijas. En este contexto, Córdoba también enfrenta riesgos asociados a la industria termoeléctrica y de hidrocarburos, con infraestructura clave como la termoeléctrica Gecelca y la terminal de OCENSA en San Antero. Estos proyectos demandan una planificación integral que minimice impactos ambientales y sociales, garantizando el equilibrio entre desarrollo económico y sostenibilidad (Ordenanza 0009, 2020).
 
@@ -427,8 +391,6 @@ En el departamento de Córdoba, la ocurrencia de incendios forestales está estr
 ![](./media/image44.png){width="3.4885433070866143in" height="4.082661854768154in"}
 
 ######## Figura 36 Mapa de amenaza por incendios forestales. Fuente: Plan Departamental de Gestión del Riesgo de Desastres, Gobernación de Córdoba y CVS (2021), versión pdf, pg. 234.
-
-*Link:* *[[https://drive.google.com/file/d/1oj27ff9ZG4AUTwDZrFSv1SLVEEILtSWK/view?usp=drive_link]{.underline}](https://drive.google.com/file/d/1oj27ff9ZG4AUTwDZrFSv1SLVEEILtSWK/view?usp=drive_link)*
 
 Este mapa muestra las zonas del departamento de Córdoba con mayor riesgo de incendios forestales. Las áreas en rojo presentan una amenaza muy alta, especialmente en municipios como Los Córdobas, Montería, Montelíbano y Ayapel. Las zonas en amarillo y naranja tienen un riesgo moderado a alto, mientras que las verdes indican baja o muy baja amenaza. El sur del departamento, cerca de Puerto Libertador y Tierralta, presenta menor riesgo. Esta información es clave para prevenir emergencias y proteger los ecosistemas vulnerables.
 

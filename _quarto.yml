@@ -1,22 +1,45 @@
 project:
   type: book
+  output-dir: _book
   resources:
     - data/
 
 book:
-  title: "Ficha Córdoba"
-  author: "UNGRD"
+  title: "Ficha departamental de caracterización de escenarios de riesgo: Departamento de Córdoba"
+  author: "Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD)"
+  date: "2026"
   page-navigation: true
+  repo-url: https://github.com/scr-ungrd/fichas-departamentales-escenarios-riesgo-cordoba
+  repo-actions: [source, issue]
+  favicon: images/favicon.png
+  sidebar:
+    style: floating
+    collapse-level: 1
+    logo: images/portada-cordoba.jpg
   chapters:
     - index.qmd
     - 00_legal.qmd
-    - 01_introduccion.qmd
-    - 02_capitulo.qmd
-    - 03_capitulo.qmd
-    - 04_capitulo.qmd
-    - 05_capitulo.qmd
-    - 06_capitulo.qmd
-    - 07_capitulo.qmd
+    - text: "1. Introducción"
+      href: 01_introduccion.qmd
+    - text: "2. Caracterización territorial y ambiental"
+      href: 02_capitulo.qmd
+    - text: "3. El clima en el departamento"
+      href: 03_capitulo.qmd
+    - text: "4. Áreas de importancia ambiental departamental"
+      href: 04_capitulo.qmd
+    - text: "5. Identificación de escenarios de riesgo"
+      href: 05_capitulo.qmd
+    - text: "6. Referencias"
+      href: 06_capitulo.qmd
+    - text: "7. Glosario"
+      href: 07_capitulo.qmd
+
+lang: es
+
+crossref:
+  fig-prefix: "Figura"
+  tbl-prefix: "Tabla"
+  chapters: true
 
 format:
   html:
@@ -25,12 +48,8 @@ format:
       - custom.scss
     toc: true
     number-sections: false
-    title-block-banner: images/banner_cordoba.png
-    title-block-banner-color: white 
-    subtitle: "Ficha departamental de caracterización de escenarios de riesgo: Departamento de Córdoba"
-crossref:
-  fig-prefix: "Figura"
-  tbl-prefix: "Tabla"
+    include-in-header:
+      - caption-bold.html
 
 # AQUÍ SE CONFIGURA EL ENLACE AL PORTAL GLOBAL
 website:

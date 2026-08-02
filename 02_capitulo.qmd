@@ -1,12 +1,3 @@
----
-title: "2. CARACTERIZACIÓN TERRITORIAL Y AMBIENTAL"
-subtitle: "Ficha departamental de caracterización de escenarios de riesgo: Departamento de Córdoba"
-author:
-  - name: "Unidad Nacional para la Gestión del Riesgo de Desastres"
-    affiliations:
-      - name: "Subdirección para el Conocimiento del Riesgo - UNGRD"
-date: "2026"
----
 
 # 2. CARACTERIZACIÓN TERRITORIAL Y AMBIENTAL
 
@@ -48,8 +39,6 @@ La información presentada a continuación fue recopilada a través del Sistema 
 Según estimaciones del Departamento Administrativo Nacional de Estadística (DANE) para el año 2024, el departamento de Córdoba cuenta con una población aproximada de 1.914.778 habitantes.
 
 La población del departamento de Córdoba se caracteriza por ser mayoritariamente joven, con una base amplia en los grupos de edad entre 0 y 19 años, lo que refleja un alto índice de natalidad. A medida que aumentan las edades, se observa una disminución progresiva en el número de habitantes, lo que indica un proceso de envejecimiento gradual de la población.
-
- 
 
 #### 2.4.2. Crecimiento poblacional y proyecciones.
 
@@ -205,10 +194,7 @@ Plot.plot({
 })
 ```
 
-
 Figura 2 Distribución demográfica del departamento de Córdoba. FUENTE: Tomado de la proyección DANE (2024), pg. 1 y 2.
-
-LINK: [[https://terridata.blob.core.windows.net/fichas/Ficha_23000.pdf]{.underline}](https://terridata.blob.core.windows.net/fichas/Ficha_23000.pdf)  
 
 ## 2.5. Actividades económicas.
 
@@ -216,9 +202,7 @@ SECTORES PRODUCTIVOS PREDOMINANTES.
 
 ![](./media/image8.png){width="4.617115048118985in" height="2.625254811898513in"}
 
-######## Figura 3 Participación por actividad económica en el departamento de Córdoba. 2022. Fuente: UPRA-DANE, pg. 8.
-
-*LINK: [[https://upra.gov.co/Kit_Territorial/2-%20Informaci%C3%B3n%20por%20Departamentos/C%C3%93RDOBA/2-%20Documento%20Regional%20UPRA%20C%C3%B3rdoba.pdf]{.underline}](https://upra.gov.co/Kit_Territorial/2-%20Informaci%C3%B3n%20por%20Departamentos/C%C3%93RDOBA/2-%20Documento%20Regional%20UPRA%20C%C3%B3rdoba.pdf)*
+######## Figura 3 Participación por actividad económica en el departamento de Córdoba, 2022. Fuente: UPRA (2024) y DANE, pg. 8.
 
 De acuerdo con datos de la Unidad de Planificación Rural Agropecuaria (UPRA, 2022), las principales actividades económicas del departamento de Córdoba muestran una alta dependencia del sector público, siendo la administración pública y defensa la que mayor participación tiene en el valor agregado bruto, con un 26%.
 
@@ -333,9 +317,7 @@ A continuación, se anexa una visualización del geoportal o portal web elaborad
 
 ![](./media/image10.png){width="3.3833333333333333in" height="3.775in"}
 
-######## Figura 5 Mapa geológico de Córdoba, pagina 74. FUENTE: Plan Departamental de Gestión del Riesgo de Desastres - PDGRD (2022 - 2031), pg. 82.
-
-*Link: [[https://drive.google.com/drive/folders/1xR_GkW_4eMc55gBeZLUSJ7mjdjfWr0x8]{.underline}](https://drive.google.com/drive/folders/1xR_GkW_4eMc55gBeZLUSJ7mjdjfWr0x8)*
+######## Figura 5 Mapa geológico de Córdoba, pagina 74. FUENTE: Plan Departamental de Gestión del Riesgo de Desastres, Gobernación de Córdoba (2022), pg. 82.
 
 El mapa elaborado por la Corporación del Valle del Sinú Corporación Autónoma Regional de los Valles del Sinú y del San Jorge (CVS) muestra una gran variedad de formaciones geológicas, lo que significa que en Córdoba hay muchas clases de rocas y suelos que se formaron en diferentes épocas de la historia de la Tierra. Existe una diversidad de rocas en el departamento y está compuesto por más de 30 unidades geológicas diferentes, cada una representada con un color distinto.
 
@@ -398,8 +380,6 @@ Para Colombia se establecen actualmente 23 cuencas sedimentarias identificadas c
 
 ######## Figura 6 Cuencas sedimentaria Sinú-San Jacinto (SSJ) en el departamento de Córdoba. FUENTE: ANH (2011)
 
-Link:[[https://www.anh.gov.co/documents/4172/Cuencas_Sedimentarias_de_Colombia_PDF.pdf?utm_source=chatgpt.com]{.underline}](https://www.anh.gov.co/documents/4172/Cuencas_Sedimentarias_de_Colombia_PDF.pdf?utm_source=chatgpt.com)
-
 Mediante el Acuerdo 04 de 2017, la Agencia Nacional de Hidrocarburos (ANH) abrió la posibilidad a los interesados de acceder a 15 áreas continentales disponibles, ubicadas en la cuenca sedimentaria Sinú-San Jacinto, con el fin de desarrollar actividades de exploración y producción de hidrocarburos.
 
 En un inicio, las primeras actividades de explotación de gas natural permitieron identificar yacimientos en los municipios de Sahagún y Chinú. Sin embargo, según el Informe de Reservas y Recursos 2023, elaborado por la Agencia Nacional de Hidrocarburos (ANH) y con base en los avisos de descubrimientos importantes de gas entre 2022 y 2024, se reportaron nuevos yacimientos en los municipios de Pueblo Nuevo y Sahagún. Estos hallazgos están siendo desarrollados por empresas operadoras como CLEANENERGY RESOURCES S.A.S., CNE OIL & GAS, entre otras, las cuales contribuyen al desarrollo del gasoducto El Jobo -- Mamonal, infraestructura que transporta gas hacia la refinería de Cartagena. (Ver Figura 7)
@@ -408,4 +388,3 @@ En un inicio, las primeras actividades de explotación de gas natural permitiero
 
 ######## Figura 7 Mapa de las redes de gasoductos en la costa caribe. FUENTE: Promigas (2025)
 
-*LINK: [[https://www.promigas.com/Beo/Paginas/ProcedimientosOperacionales/Mapa-del-gasoducto.aspx]{.underline}](https://www.promigas.com/Beo/Paginas/ProcedimientosOperacionales/Mapa-del-gasoducto.aspx)*

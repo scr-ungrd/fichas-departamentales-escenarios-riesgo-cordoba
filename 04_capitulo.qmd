@@ -1,12 +1,3 @@
----
-title: "4. ÁREAS DE IMPORTANCIA AMBIENTAL DEPARTAMENTAL"
-subtitle: "Ficha departamental de caracterización de escenarios de riesgo: Departamento de Córdoba"
-author:
-  - name: "Unidad Nacional para la Gestión del Riesgo de Desastres"
-    affiliations:
-      - name: "Subdirección para el Conocimiento del Riesgo - UNGRD"
-date: "2026"
----
 
 # 4. ÁREAS DE IMPORTANCIA AMBIENTAL DEPARTAMENTAL
 
@@ -87,8 +78,6 @@ Los municipios con registros arqueológicos fueron: Ayapel, Buenavista, Montelí
 La creación del Sistema de Áreas Protegidas en Colombia se basa en un enfoque que busca conservar los ecosistemas. Para su gestión, se creó el Registro Único Nacional de Áreas Protegidas (RUNAP), según lo establecido en los Decretos 2372 de 2010 y 3572 de 2011. Esta herramienta es administrada por Parques Nacionales Naturales de Colombia y permite que cada Autoridad Ambiental registre las áreas protegidas que tiene a su cargo, a través de una plataforma nacional.
 
 Según el Registro Único Nacional de Áreas Protegidas (RUNAP), en el departamento de Córdoba existen 19 áreas protegidas inscritas, registradas y declaradas por la Autoridad ambiental departamental (CVS, 2020).
-
-Link del RUNAP para Córdoba: *[<https://runap.parquesnacionales.gov.co/area-protegida/215>]{.underline}*
 
 []{#_Toc216552979 .anchor}Tabla 9 Ecosistemas estratégicos registrados en el RUNAP.
 Fuente: Autores adaptado del RUNAP (2025).

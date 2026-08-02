@@ -1,53 +1,43 @@
 ---
-title: "Información Legal"
-subtitle: "Ficha departamental de caracterización de escenarios de riesgo: Departamento de Córdoba"
-author:
-  - name: "Unidad Nacional para la Gestión del Riesgo de Desastres"
-    affiliations:
-      - name: "Subdirección para el Conocimiento del Riesgo - UNGRD"
-date: "2026"
+title: "Página Legal"
 ---
 
-# Información Legal
+Ficha departamental de caracterización de escenarios de riesgo: Departamento de Córdoba. Bogotá, D.C., Unidad Nacional para la Gestión del Riesgo de Desastres, 2026. DOI: [DOI pendiente de asignación]
+1. Gestión del riesgo de desastres—Córdoba (Colombia) 2. Ordenamiento territorial—gestión del riesgo departamental 3. Amenazas naturales, socio-naturales y tecnológicas—Córdoba 4. Caracterización ambiental y climática—Córdoba 5. Escenarios de riesgo—antecedentes históricos
 
-GUSTAVO FRANCISCO PETRO URREGO
-Presidente de Colombia
-CARLOS ALBERTO CARRILLO ARENAS
+------------------------------------------------------------------------
 
-Director General
+::: {style="line-height: 0.96;"}
+**Gustavo Francisco Petro Urrego** \| Presidente de la República
 
-Unidad Nacional de Gestión de Riesgo de Desastres – UNGRD
+**Carlos Alberto Carrillo Arenas** \| Director General,
+Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD)
 
-RAFAEL ENRIQUE CRUZ RODRÍGUEZ
-Subdirector General – UNGRD
-ANA MILENA PRADA URIBE
+**Rafael Enrique Cruz Rodríguez** \| Subdirector General – UNGRD
 
-Subdirectora para el Conocimiento del Riesgo – UNGRD
+**Ana Milena Prada Uribe** \| Subdirectora para el Conocimiento del Riesgo
 
-Elaborado por
+------------------------------------------------------------------------
 
-SANDRA MENDOZA O
-ANDRÉS TAFUR CASTAÑO
-NICOLÁS ESPITIA RODRIGUEZ
-Equipo técnico
+**Subdirección para el Conocimiento del Riesgo**
 
-Subdirección para el Conocimiento del Riesgo - UNGRD
+------------------------------------------------------------------------
 
-X
-Revisión Técnica
+Elaborado por \| Sandra Mendoza O., Andrés Tafur Castaño, Nicolás Espitia Rodríguez — Equipo técnico, Subdirección para el Conocimiento del Riesgo - UNGRD
 
-Subdirección para la Reducción del Riesgo de Desastres - UNGRD
+Revisión técnica \| Pendiente — Subdirección para la Reducción del Riesgo de Desastres - UNGRD
 
-X
+Revisión de estilo \| Pendiente – UNGRD
 
-Revisión de estilo - UNGRD
-IVÁN MERCHÁN RODRÍGUEZ
-Diseño editorial - UNGRD
+Diseño editorial \| Iván Merchán Rodríguez – UNGRD
 
-Derechos reservados
+DOI: [DOI pendiente de asignación]
 
-Reproducción parcial o total del presente documento permitida
-con mención de la fuente www.gestiondelriesgo.gov.co
+Copyright: © Unidad Nacional para la Gestión del Riesgo de Desastres, 2026. Bogotá, Colombia
 
-ISBN xxxxxxxxxxxxx
-Bogotá D.C., septiembre de 2025
+**Citación sugerida**: Unidad Nacional para la Gestión del Riesgo de Desastres, Subdirección para el Conocimiento del Riesgo. 2026. *Ficha departamental de caracterización de escenarios de riesgo: Departamento de Córdoba.* Unidad Nacional para la Gestión del Riesgo de Desastres. Bogotá, D.C., Colombia.
+
+Todos los derechos reservados. Excepto si se señala otra cosa, la licencia del ítem se describe como Atribución. NoComercial-SinDerivadas 2.5 Colombia. Distribución gratuita – versión digital
+:::
+
+![](images/Logo-UNGRD.png){fig-align="center" width="300"}
