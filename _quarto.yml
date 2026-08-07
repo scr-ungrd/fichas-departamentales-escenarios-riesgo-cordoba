@@ -16,6 +16,12 @@ book:
     style: floating
     collapse-level: 1
     logo: images/portada-cordoba.jpg
+    tools:
+      - icon: diagram-3-fill
+        href: "https://scr-ungrd.github.io/hub/"
+        aria-label: "HUB SCR — portal de proyectos"
+        target: _blank
+        rel: noopener noreferrer
   chapters:
     - index.qmd
     - 00_legal.qmd
